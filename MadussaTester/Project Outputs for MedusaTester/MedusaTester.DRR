@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MedusaTester.PcbDoc   31/05/2010  9:47:31 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MedusaTester.TXT
+EIA File   : MedusaTester.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          9                5.61 Inch (142.61 mm)
+T2        30mil (0.762mm)          Round          120              15.24 Inch (387.10 mm)
+T3        35mil (0.889mm)          Round          3                0.29 Inch (7.33 mm)
+T4        35.4mil (0.89916mm)      Round          54               5.70 Inch (144.78 mm)
+T5        37mil (0.9398mm)         Round          62               5.86 Inch (148.79 mm)
+T6        42mil (1.0668mm)         Round          60               12.18 Inch (309.28 mm)
+T7        120mil (3.048mm)         Round          10               12.48 Inch (316.92 mm)
+---------------------------------------------------------------------------
+Totals                                            318              57.35 Inch (1456.82 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
