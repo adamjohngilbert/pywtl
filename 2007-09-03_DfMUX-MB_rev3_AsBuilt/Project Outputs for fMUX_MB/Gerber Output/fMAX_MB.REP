@@ -1,0 +1,1051 @@
+*************************************************************
+FileName = fMAX_MB.GBR
+AutoAperture = True
+*************************************************************
+Generating : TopLayer
+      File : fMAX_MB.GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Gnd1
+      File : fMAX_MB.G1
+
+    Adding Layer      : Gnd1
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D86
+    D87
+    D89
+    D90
+    D92
+    D94
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D106
+    D109
+    D110
+    D111
+    D112
+    D114
+    D116
+    D118
+    D119
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : MidLayer1
+      File : fMAX_MB.G2
+
+    Adding Layer      : MidLayer1
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D87
+    D89
+    D93
+    D94
+    D95
+    D98
+    D99
+    D111
+    D118
+    D119
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Power1
+      File : fMAX_MB.G3
+
+    Adding Layer      : Power1
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D86
+    D89
+    D94
+    D98
+    D104
+    D106
+    D109
+    D114
+    D115
+    D118
+    D119
+    D121
+*************************************************************
+
+*************************************************************
+Generating : MidLayer4
+      File : fMAX_MB.G4
+
+    Adding Layer      : MidLayer4
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D89
+    D93
+    D118
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Power2
+      File : fMAX_MB.G5
+
+    Adding Layer      : Power2
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D83
+    D84
+    D86
+    D87
+    D89
+    D102
+    D118
+    D119
+    D121
+*************************************************************
+
+*************************************************************
+Generating : MidLayer2
+      File : fMAX_MB.G6
+
+    Adding Layer      : MidLayer2
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D87
+    D89
+    D93
+    D94
+    D95
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Power3
+      File : fMAX_MB.G7
+
+    Adding Layer      : Power3
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D84
+    D86
+    D87
+    D89
+    D98
+    D103
+    D109
+    D110
+    D118
+    D119
+    D121
+    D122
+*************************************************************
+
+*************************************************************
+Generating : MidLayer3
+      File : fMAX_MB.G8
+
+    Adding Layer      : MidLayer3
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D84
+    D89
+    D93
+    D118
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Gnd3
+      File : fMAX_MB.G9
+
+    Adding Layer      : Gnd3
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D84
+    D89
+    D90
+    D92
+    D93
+    D94
+    D96
+    D97
+    D98
+    D99
+    D100
+    D106
+    D109
+    D110
+    D111
+    D112
+    D114
+    D116
+    D118
+    D119
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : MidLayer6
+      File : fMAX_MB.G10
+
+    Adding Layer      : MidLayer6
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D89
+    D98
+    D101
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Gnd2
+      File : fMAX_MB.G11
+
+    Adding Layer      : Gnd2
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D84
+    D86
+    D89
+    D90
+    D92
+    D94
+    D96
+    D97
+    D98
+    D99
+    D100
+    D106
+    D109
+    D110
+    D111
+    D112
+    D114
+    D116
+    D118
+    D119
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : MidLayer5
+      File : fMAX_MB.G12
+
+    Adding Layer      : MidLayer5
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D82
+    D83
+    D84
+    D87
+    D89
+    D94
+    D98
+    D118
+*************************************************************
+
+*************************************************************
+Generating : BottomLayer
+      File : fMAX_MB.GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D16
+    D18
+    D19
+    D20
+    D59
+    D82
+    D83
+    D84
+    D86
+    D87
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D123
+    D124
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : TopOverlay
+      File : fMAX_MB.GTO
+
+    Adding Layer      : TopOverlay
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D10
+    D82
+    D83
+    D84
+    D87
+    D89
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : BottomOverlay
+      File : fMAX_MB.GBO
+
+    Adding Layer      : BottomOverlay
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D10
+    D83
+    D84
+    D87
+    D128
+*************************************************************
+
+*************************************************************
+Generating : TopPaste
+      File : fMAX_MB.GTP
+
+    Adding Layer      : TopPaste
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D84
+    D89
+*************************************************************
+
+*************************************************************
+Generating : BottomPaste
+      File : fMAX_MB.GBP
+
+    Adding Layer      : BottomPaste
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
+    D12
+    D16
+    D18
+    D19
+    D20
+    D59
+    D84
+    D89
+    D123
+    D124
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : TopSolder
+      File : fMAX_MB.GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D84
+    D89
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+*************************************************************
+
+*************************************************************
+Generating : BottomSolder
+      File : fMAX_MB.GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : Mechanical1
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D84
+    D89
+    D137
+    D138
+    D142
+    D144
+    D145
+    D146
+    D185
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+*************************************************************
+
+*************************************************************
+Generating : KeepOutLayer
+      File : fMAX_MB.GKO
+
+    Adding Layer      : KeepOutLayer
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Mechanical1
+      File : fMAX_MB.GM1
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : fMAX_MB.GPT
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D84
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : fMAX_MB.GPB
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D11
+    D12
+    D16
+    D18
+    D19
+    D20
+    D59
+    D84
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D123
+    D124
+    D125
+    D126
+*************************************************************
+

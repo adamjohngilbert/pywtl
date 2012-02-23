@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Program Files\Altium Designer 6\Examples\2007-08-17_DfMUX-MB_rev3\fMAX_MB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=fmax_mb-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=fmax_mb-nonplated.txt|LayerPairs=gtl,gbl

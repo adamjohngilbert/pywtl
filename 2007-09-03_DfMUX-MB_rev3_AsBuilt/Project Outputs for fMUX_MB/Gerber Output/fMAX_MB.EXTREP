@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: fMAX_MB.GBR   2007-09-03  20:04:07
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                TopLayer                                
+.G1                 Gnd1                                    
+.G2                 MidLayer1                               
+.G3                 Power1                                  
+.G4                 MidLayer4                               
+.G5                 Power2                                  
+.G6                 MidLayer2                               
+.G7                 Power3                                  
+.G8                 MidLayer3                               
+.G9                 Gnd3                                    
+.G10                MidLayer6                               
+.G11                Gnd2                                    
+.G12                MidLayer5                               
+.GBL                BottomLayer                             
+.GTO                TopOverlay                              
+.GBO                BottomOverlay                           
+.GTP                TopPaste                                
+.GBP                BottomPaste                             
+.GTS                TopSolder                               
+.GBS                BottomSolder                            
+.GKO                KeepOutLayer                            
+.GM1                Mechanical1                             
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------

@@ -1,0 +1,201 @@
+Bill of Material for fMUX_MB.PrjPCB
+On 10/14/2007 at 1:16:16 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+RF Shield LT-2837-RevP1  Custom       1    Center of board
+ 0 EXB-2HVR000V      0402_Array_2HV   11    RT11, RT12, RT13, RT14, RT15 Isolated Resistor Network 
+                                           RT16, RT17, RT18, RT19, RT20
+                                           RT21
+ 0.01uF              CC1005-0402     10    C236, C237, C240, C245, C249 Capacitor (Semiconductor SIM Model) 
+                                           C250, C251, C255, C266, C268
+ 0.01uF              CC1608-0603      4    C259, C260, C261, C262       Capacitor (Semiconductor SIM Model) 
+ 0.1uF               CC1608-0603     60    C1, C2, C3, C4, C5, C6, C7   Capacitor (Semiconductor SIM Model) 
+                                           C30, C31, C32, C33, C34, C35
+                                           C36, C37, C38, C39, C40, C41
+                                           C42, C43, C44, C45, C238
+                                           C241, C242, C252, C256, C257
+                                           C267, C269, C277, C278, C279
+                                           C280, C281, C282, C283, C285
+                                           C286, C287, C329, C332, C335
+                                           C338, C601, CP2, CRT1_1
+                                           CRT1_2, CRT1_3, CRT1_4
+                                           CRT1_5, CRT1_6, CRT1_7
+                                           CRT1_8, CT2, CT4, CTemp_1
+                                           CTemp_2, CTemp_3
+ 0.22uF              CC1608-0603     51    C14, C88, C89, C90, C91, C92 Capacitor (Semiconductor SIM Model) 
+                                           C93, C94, C95, C96, C97, C98
+                                           C99, C100, C101, C102, C103
+                                           C104, C105, C106, C107, C108
+                                           C109, C110, C111, C149, C150
+                                           C151, C152, C153, C154, C155
+                                           C156, C157, C204, C205, C206
+                                           C207, C208, C209, C210, C211
+                                           C212, C213, C214, C215, C216
+                                           C217, C218, C219, C220
+ 0.68uF              CC3216-1206     22    C130, C131, C132, C133, C134 Capacitor (Semiconductor SIM Model) 
+                                           C135, C136, C137, C138, C139
+                                           C169, C170, C172, C173, C221
+                                           C222, C223, C224, C225, C226
+                                           C227, C228
+ 0                   CR1608-0603     22    R34, R35, R36, R37, R38, R39 Resistor 0603        
+                                           R40, R44, R45, R46, R71, R77
+                                           R91, R105, R113, R119, R120
+                                           R121, R124, R128, R131, R133
+ 1.2 uH, 2.38 mOhm, 20A, MLC1255-122ML MLC_inductor     3    L3_1, L3_2, L3_3             Inductor             
+ 1.5K                CR1608-0603      1    R165                         Resistor 0603        
+ 100                 CR1608-0603      7    R11, R12, R42_1, R42_2, R42_3 Semiconductor Resistor 
+                                           R167, R168
+ 100K                CR1608-0603      7    R25_1, R25_2, R25_3, RP3, RP5 Semiconductor Resistor 
+                                           RP18, RP19
+ 100uF x 10V         TC6032-2412     33    C8_1, C8_2, C8_3, C9_1, C9_2 CAP TANTC TPSC107K010R0075 
+                                           C9_3, C10_1, C10_2, C10_3
+                                           C11_1, C11_2, C11_3, C12_1
+                                           C12_2, C12_3, C17, C20, C23
+                                           C26, C27, C28, C29, C271
+                                           C272, C274, C275, C289, C290
+                                           C325, C326, C328, C331, C345
+ 100uF x 16V         CC7343-31_Dsize    6    C327, C330, C333, C334, C336 CAP TANTD TPSD107M016R0060 
+                                           C337
+ 10K EXB-2HV103JV    0402_Array_2HV    2    RT9, RT10                    Isolated Resistor Network 
+ 10K                 1608[0603]       1    R501                         Semiconductor Resistor 
+ 10K                 CR1608-0603     30    R1, R13, R21, R22, R75, R76  Resistor 0603        
+                                           R112, R118, R132, R155, R156
+                                           R157, R158, R159, R160, R161
+                                           R162, R500, RP1, RP2, RP4
+                                           RP6, RP11, RP13, RP15, RP16
+                                           RP17, RP20, RP21, RP22
+ 10uF x 16V          CC3225-1210      6    C15_1, C15_2, C15_3, CP1, CT1 CAP POL 1206YD106KAT2A 
+                                           CT3
+ 10uF x 25V          TC6032-2412      6    C243, C246, C253, C258, C270 CAP POL B45197A5106K309 
+                                           C284
+ 120                 CR1608-0603      2    R104, R109                   Resistor 0603        
+ 160                 CR1608-0603      5    R48, R49, R51, R54, R456     Resistor 0603        
+ 170K                CR1608-0603      1    R164                         Resistor 0603        
+ 1K                  CR1608-0603      7    R85, R86, R89, R90, R106     Resistor 0603        
+                                           R108, R453
+ 1M                  CR1608-0603      3    R47_1, R47_2, R47_3          Resistor 0603        
+ 1nF                 CC1005-0402      6    C239, C244, C247, C248, C254 Capacitor (Semiconductor SIM Model) 
+                                           C265
+ 1nF                 CC1608-0603      3    C19_1, C19_2, C19_3          Capacitor (Semiconductor SIM Model) 
+ 1uF                 CC1608-0603      3    C16_1, C16_2, C16_3          Capacitor (Semiconductor SIM Model) 
+ 2.2nF               CC1608-0603      3    C21_1, C21_2, C21_3          Capacitor (Semiconductor SIM Model) 
+ 2.2uF               CC3216-1206     17    C140, C141, C142, C143, C144 Capacitor (Semiconductor SIM Model) 
+                                           C145, C146, C147, C174, C176
+                                           C177, C229, C230, C231, C232
+                                           C233, C234
+ 2.2uF               CC3225-1210      4    C18_1, C18_2, C18_3, C401    Capacitor (use 1206 footprint) 
+ 2.49K               CR1608-0603      4    R41_1, R41_2, R41_3, R452    Resistor 0603        
+ 2.7uH, 15A PM12645S-2R7M MLC_inductor     2    L5, L6                       Inductor             
+ 20R0                CR1608-0603      2    R3, R4                       Resistor 0603        
+ 2200pF              CC1608-0603      1    C600                         Capacitor (Semiconductor SIM Model) 
+ 240                 CR1608-0603      1    R166                         Resistor 0603        
+ 249                 CR1608-0603      8    R50, R53, R55, R59, R61, R64 Resistor 0603        
+                                           R79, R135
+ 27K                 CR1608-0603      1    R163                         Resistor 0603        
+ 3.32K               CR1608-0603      3    R_ITH1_1, R_ITH1_2, R_ITH1_3 Resistor 0603        
+ 30.1K               CR1608-0603      7    R_OSC1_1, R_OSC1_2, R_OSC1_3 Resistor 0603        
+                                           RP8, RP10, RP12, RP14
+ 330                 CR1608-0603      1    R101                         Resistor 0603        
+ 330uF x 10V         CC7343-31_Dsize    3    C148, C184, C235             CAP TANTD TPSD337K010R0100 
+ 33uF x 16V          CC4532-1812      2    C273, C276                   CAP POL C4532X5R1C336M 
+ 4.99K               1608[0603]       2    Rv2_1, Rv2_2                 Semiconductor Resistor 
+ 4.99K               CR1608-0603     29    R18, R23, R24, R41, R42, R43 Resistor 0603        
+                                           R47, R52, R56, R58, R65, R73
+                                           R78, R82, R83, R84, R92, R93
+                                           R95, R96, R97, R98, R100
+                                           R102, R103, R110, R111, R134
+                                           R199
+ 40K                 CR1608-0603      1    R130                         Resistor 0603        
+ 47 EXB-2HV470JV     0402_Array_2HV    8    RT1_1, RT1_2, RT1_3, RT1_4   Isolated Resistor Network 
+                                           RT1_5, RT1_6, RT1_7, RT1_8
+ 47nF                CC1005-0402    100    C13, C46, C47, C48, C49, C50 Capacitor (Semiconductor SIM Model) 
+                                           C51, C52, C53, C54, C55, C56
+                                           C57, C58, C59, C60, C61, C62
+                                           C63, C64, C65, C66, C67, C68
+                                           C69, C70, C71, C72, C73, C74
+                                           C75, C76, C77, C78, C79, C80
+                                           C81, C82, C83, C84, C85, C86
+                                           C87, C112, C113, C114, C115
+                                           C116, C117, C118, C119, C120
+                                           C121, C122, C123, C124, C125
+                                           C126, C127, C128, C129, C158
+                                           C159, C160, C161, C162, C163
+                                           C164, C165, C166, C167, C168
+                                           C171, C175, C178, C179, C180
+                                           C181, C182, C183, C185, C186
+                                           C187, C188, C189, C190, C191
+                                           C192, C193, C194, C195, C196
+                                           C197, C198, C199, C200, C201
+                                           C202, C203, C400
+ 47p                 CC1608-0603      3    C22_1, C22_2, C22_3          Capacitor (Semiconductor SIM Model) 
+ 49.9                CR1608-0603     11    R57, R60, R62, R63, R66, R67 Resistor 0603        
+                                           R68, R69, R70, R72, RT6
+ 50                  CR1608-0603      1    R455                         Resistor 0603        
+ 681                 CR1608-0603      6    R2, R80, R81, R94, R99, RP25 Resistor 0603        
+ CONN RJ_45, Molex 432028925 RJ45             1    P5                           Molex 432028925      
+ CONN, 120603-1 IEEE1386 64pin Receptacle 120603-1         2    J16_1, J17_1                 1.0mm FH (IEEE1386) 64-pin Connector 
+ CONN, 120603-2 IEEE1386 84pin Receptacle 120603-2         2    J16_2, J17_2                 1.0mm FH (IEEE1386) 84-pin Connector 
+ CONN, Compact Flash, AVX315610050500871 CF_AVX5611       1    PCF                          Compact Flash Connector 
+ CONN, DB25f R/A, 0.318" DSUB1.385-2H25A    1    P3                           Amp 5747846-4 or ITT DBMG25SJA197 
+ CONN, DIN R/A 96pin 650473-5 CNVME96          2    P1, P2                       96-Pin Connector (3x32 2.54mm grid) 
+ CONN, Oscillator Socket, Half Size DIP_Osc          2    U5, U24                      1108800 ARIES Oscillator Socket 
+ CONN, Power Term, Phoenix 1725698 TrmBlk6          1    P4                           MPT 0.5/6-2.54 Terminal Block 
+ DNL, EEPROM 24LC04B TSSOP8-4.4       1    U16                          4K I2C Serial EEPROM 
+ DNL                 CC1608-0603      1    C288                         Capacitor (Semiconductor SIM Model) 
+ DNL                 CR1608-0603     34    R5, R6, R7, R8, R9, R10, R14 Semiconductor Resistor 
+                                           R15, R16_1, R16_2, R16_3, R19
+                                           R20, R26, R27, R28, R29, R30
+                                           R31, R32, R33, R87, R88, R115
+                                           R116, R117, R122, R123, R125
+                                           R126, R127, R129, R154, R454
+ DNL                 INDC2012-0805    1    L7                           Inductor             
+ Ferrite bead        INDC2012-0805    4    L1, L2, L3, L4               Inductor SM 0805     
+ FUSE, RGE400, 4A, 0.039ohm Fuse 5.88mm      2    F1, F2                       Fuse                 
+ FUSE, RXE040, 0.4A, 0.86ohm Fuse 5.88mm      2    F3, F4                       Fuse                 
+ Header 2            HDR1X2           7    J1, J2, J3, J4, J20, J21, J24 Header, 0.1" 2-Pin straight 
+ Header 3            HDR1X3           2    J14, J15                     Header, 0.1"  3-Pin straight 
+ Header 5X2          HDR2X5           1    J19                          Header, 0.1" 5-Pin, Dual row straight 
+ Header 6            HDR1X6           1    J22                          Header, 0.1" 6-Pin straight 
+ HFJ11-1G01E         HALO_RJ45        1    P6                           Gigabit HALO RJ45    
+ IC, ADC128S102CIMT  SSO-G16/X.45     1    UP1                          8-Channels, 500kSPS to 1 MSPS, 12-Bit ADC 
+ IC, ADM3202ARUZ     SSO-G16/X.45     1    U15                          Line Drivers/Receivers 
+ IC, ADM3485EARZ, RS485Transceiver SO-G8/Y1.9       2    U6, U7                       20 Mbps, EIA RS-485 Transceiver 
+ IC, ADT7301ARTZ     SO-G6/E2.4       3    UTemp_1, UTemp_2, UTemp_3    Digital Temperature Sensor, 13-Bit, +/-1 Degree Accurate 
+ IC, DDR SDRAM MT46V16M16P-6T IT:F TR TSOP-66          2    U12, U13                     256Mb, 4Meg X 16 X 4 banks DDR SDRAM 
+ IC, DS90LV049TMT    TSSO5x6-G16      1    U9                           3V LVDS Dual Line Transceiver 
+ IC, DS92LV010ATM    SOP8             1    U4                           Bus LVDS 3.3/5.0V Single Transceiver 
+ IC, LMV7219M7       MAA05A           1    Uphy                         Voltage Comparator   
+ IC, Marvell 88E1111-CAA BCC_96           1    U20                          PHY 10/100/1000 Alaska Single-Port Gigabit Transceiver 
+ IC, MAX6685AU75H    uSOP8            1    UC1                          Dual-Output Remote-Junction Temperature Switch 
+ IC, MAX6734KAZGD3-T SOP23-8          1    U29                          uP Supervisory Circuit 
+ IC, MMBT3904        SOT23            4    Q1, Q2, Q3, Q5               NPN Switching Transistor 
+ IC, MMBT3906        SOT23            1    Q7                           PNP Switching Transistor 
+ IC, NDT451AN        SOT223           1    Q6                           100V N-Channel Enhancement Mode MOSFET 
+ IC, SN74AVC2T45DCTR TSSO3x5-G8/X.35    1    U3                           Dual-bit Dual-supply Bus Transceiver 
+ IC, SN74AVCB164245VR DGV048           1    U27                          16-Bit Dual-Supply Bus Transceiver with CVT and 3-state 
+ IC, ZXMP4A16G       SOT223           1    Q4                           40V P-Channel Enhancement Mode MOSFET 
+ LED Front Panel GGG LED_Tri_         1    U21                          564-0200-222F        
+ LED Front Panel GYR LED_Tri_         1    U25                          564-0200-132F        
+ LED0805, GRN        SMD _LED         9    D2, D3, D4, D5, D6, D7, D8   LED 0805 LTST-C170GKT 
+                                           D9, DS15
+ LED0805, RED        SMD _LED         4    DS12, DS13, DS14, DS16       LED 0805 LTST-C170CKT 
+ LED0805, YEL        SMD _LED         1    D1                           LED 0805 LTST-C170YKT 
+ Plug                PIN1             2    Pgrd1, Pgrd2                 Plug                 
+ REG, Linear 3.3V, LP3966ES-3.3 TS5B             1    U33                          3A Fast Ultra Low Dropout Linear Regulator 
+ REG, LM2931CS       TS5B             1    U11                          Series Low-Dropout Regulator 
+ REG, LM2991S        TS5B             1    U14                          Negative Low-Dropout Adjustable Regulator 
+ REG, LP2996M, DDR Termination M08A             1    U28                          DDR Termination Regulator 
+ REG, LTC3418EUHF    UH38_N           3    U2_1, U2_2, U2_3             8A, 4MHz, Monolithic Syncronous Step-Down Regulator 
+ SN                  MHDR1X2          8    J6, J7, J8, J9, J10, J11, J12 Jumper Wire - Assembly house please short. 
+                                           J13
+ SW DIP-4, GDH06S    SO-G8            1    TPRG                         DIP Switch, 4 Position, SPST 
+ SW DIP-6, GDH06S    DIP_SW_SM6POS    1    SW4                          DIP Switch, 6 Position, SPST 
+ SW DIP-8, GDH08S    DIP_SW_8WAY_SMD    1    SW2                          DIP Switch, 8 Position, SPST 
+ SW, EVP-AA402W      EVPAA            1    SW1                          Switch, SM pushbutton SPST 
+ SW, TP11SH8ABE      TP11SH8ABE       1    SW3                          Right angle PC trough 
+ Use 681 for _1, 1.18K for _2, 4.99K for _3 CR1608-0603      3    R43_1, R43_2, R43_3          Semiconductor Resistor 
+ XC4VLX100-11FF1148C FF1148           1    U1                           Xilinx Virtex-4 LX Platform FPGA, 1148-Ball FFBGA, Speed Grade 11, 768 User I/Os, Commercial Grade 
+ XCCACE-TQG144I      TQFP144          1    U22                          System ACE CF Xilinx 
+ Zener, 1N5344BRL    DIODE-0.7        2    D10, D11                     Zener Diode, 8.2V, 5W 
+ Zener, 1N5350BRLG   A-500            2    D17, D18                     Zener Diode, 13V, 5W 

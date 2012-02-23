@@ -1,0 +1,682 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Pgrd2      PIN1                 12831mil       7422mil      12831mil       7422mil      12831mil       7422mil  T         90.00 GND            
+Pgrd1      PIN1                 12954mil      11216mil      12954mil      11216mil      12954mil      11216mil  T         90.00 GND            
+Rv2_2      1608[0603]            4915mil       7854mil       4915mil       7854mil   4948.465mil       7854mil  T        180.00 4.99K          
+Rv2_1      1608[0603]            9612mil       7830mil       9612mil       7830mil   9578.535mil       7830mil  T          0.00 4.99K          
+SH3        Shield250_07         11900mil       8842mil      11900mil       8092mil      11900mil       8342mil  T         90.00 Comment        
+SH4        Shield250_18          9725mil       7906mil       7475mil       7906mil      11725mil       7906mil  T          0.00 Comment        
+SH2        Shield250_18          9723mil       9749mil       7473mil       9749mil       7723mil       9749mil  T          0.00 Comment        
+SH1        Shield250_07_4        7303mil       8841mil       7303mil       8091mil       7303mil       9591mil  T         90.00 Comment        
+TPRG       SO-G8                 9464mil       9292mil       9464mil       9292mil       9389mil   9189.638mil  T          0.00 DNL, SW DIP-4, GDH06S
+U1         FF1148                8580mil       8800mil       8580mil       8800mil   7930.394mil   9331.496mil  T        270.00 XC4VLX100-11FF1148C
+U24        DIP_Osc          10938.937mil   6902.882mil  10788.937mil   7052.882mil  10788.937mil   7052.882mil  T          0.00 CONN, Oscillator Socket, Half Size
+U13        TSOP-66           10029.45mil   9171.496mil       9620mil       8940mil       9620mil       8940mil  T         90.00 IC, DDR SDRAM MT46V16M16P-6T IT:F TR
+C258       TC6032-2412          11552mil       8612mil      11552mil       8612mil      11552mil   8710.425mil  T        270.00 10uF x 25V     
+C253       TC6032-2412          11699mil       9151mil      11699mil       9151mil      11699mil   9249.425mil  T        270.00 10uF x 25V     
+C246       TC6032-2412          10776mil       9051mil      10776mil       9051mil  10874.425mil       9051mil  T        180.00 10uF x 25V     
+C243       TC6032-2412          10882mil       9512mil      10882mil       9512mil      10882mil   9413.575mil  T         90.00 10uF x 25V     
+R73        CR1608-0603          11067mil       9062mil      11067mil       9062mil  11033.535mil       9062mil  T          0.00 4.99K          
+R68        CR1608-0603          10848mil       9162mil      10848mil       9162mil  10814.535mil       9162mil  T          0.00 49.9           
+R67        CR1608-0603          10848mil       9212mil      10848mil       9212mil  10814.535mil       9212mil  T          0.00 49.9           
+R65        CR1608-0603          11020mil       9480mil      11020mil       9480mil  10986.535mil       9480mil  T          0.00 4.99K          
+R58        CR1608-0603          11020mil       9430mil      11020mil       9430mil  10986.535mil       9430mil  T          0.00 4.99K          
+R56        CR1608-0603          11020mil       9540mil      11020mil       9540mil  10986.535mil       9540mil  T          0.00 4.99K          
+R52        CR1608-0603          11020mil       9600mil      11020mil       9600mil  10986.535mil       9600mil  T          0.00 4.99K          
+R47        CR1608-0603          11381mil       9906mil      11381mil       9906mil      11381mil   9872.535mil  T         90.00 4.99K          
+R43        CR1608-0603          11130mil       9906mil      11130mil       9906mil      11130mil   9872.535mil  T         90.00 4.99K          
+R42        CR1608-0603          11204mil       9906mil      11204mil       9906mil      11204mil   9872.535mil  T         90.00 4.99K          
+R41        CR1608-0603          11316mil       9906mil      11316mil       9906mil      11316mil   9872.535mil  T         90.00 4.99K          
+L3         INDC2012-0805        11540mil       8940mil      11540mil       8940mil   11579.37mil       8940mil  T        180.00 Ferrite bead   
+P6         HALO_RJ45            11475mil      12005mil      11380mil      12160mil      11700mil      11830mil  T        180.00 HFJ11-1G01E    
+P5         RJ45              8689.378mil  11968.157mil   8594.378mil  12123.157mil   8864.378mil  11893.157mil  T        180.00 CONN RJ_45, Molex 432028925
+L4         INDC2012-0805        11080mil      11920mil      11080mil      11920mil      11080mil   11880.63mil  T         90.00 Ferrite bead   
+U2_3       UH38_N            9822.984mil   7001.984mil       9822mil       7001mil   9735.386mil       7111mil  T          0.00 REG, LTC3418EUHF
+U2_2       UH38_N            7112.984mil   7009.984mil       7112mil       7009mil   7025.386mil       7119mil  T          0.00 REG, LTC3418EUHF
+U2_1       UH38_N            5956.984mil   7050.984mil       5956mil       7050mil   5869.386mil       7160mil  T          0.00 REG, LTC3418EUHF
+UP1        SSO-G16/X.45      5217.883mil  10991.882mil   5217.882mil  10991.882mil   5128.316mil  10858.024mil  T          0.00 IC, ADC128S102CIMT
+SW2        DIP_SW_8WAY_SMD       8448mil      10371mil       8448mil      10371mil       8098mil  10195.804mil  T          0.00 SW DIP-8, GDH08S
+RT21       0402_Array_2HV   10012.103mil    6550.74mil      10081mil   6580.268mil  10085.922mil   6580.268mil  T        270.00 0 EXB-2HVR000V 
+RT20       0402_Array_2HV   11372.103mil    6550.74mil      11441mil   6580.268mil  11445.922mil   6580.268mil  T        270.00 0 EXB-2HVR000V 
+RT19       0402_Array_2HV   12112.103mil    6550.74mil      12181mil   6580.268mil  12185.922mil   6580.268mil  T        270.00 0 EXB-2HVR000V 
+RT17       0402_Array_2HV   10872.103mil    6550.74mil      10941mil   6580.268mil  10945.922mil   6580.268mil  T        270.00 0 EXB-2HVR000V 
+RT15       0402_Array_2HV   10232.103mil    6550.74mil      10301mil   6580.268mil  10305.922mil   6580.268mil  T        270.00 0 EXB-2HVR000V 
+RT14       0402_Array_2HV   11152.103mil    6550.74mil      11221mil   6580.268mil  11225.922mil   6580.268mil  T        270.00 0 EXB-2HVR000V 
+RT10       0402_Array_2HV    8448.898mil  10009.528mil       8380mil       9980mil   8375.079mil       9980mil  T         90.00 10K EXB-2HV103JV
+RP25       CR1608-0603           5050mil      11383mil       5050mil      11383mil       5050mil  11349.536mil  T         90.00 681            
+RP22       CR1608-0603       5357.882mil  10728.418mil   5357.882mil  10728.418mil   5357.882mil  10694.954mil  T         90.00 10K            
+RP21       CR1608-0603       5467.882mil  10741.882mil   5467.882mil  10741.882mil   5434.418mil  10741.882mil  T          0.00 10K            
+RP20       CR1608-0603       5227.882mil  11281.882mil   5227.882mil  11281.882mil   5227.882mil  11315.346mil  T        270.00 10K            
+RP19       CR1608-0603       5467.882mil  11041.882mil   5467.882mil  11041.882mil   5501.346mil  11041.882mil  T        180.00 100K           
+RP18       CR1608-0603       5467.882mil  10681.882mil   5467.882mil  10681.882mil   5434.418mil  10681.882mil  T          0.00 100K           
+RP17       CR1608-0603       5467.882mil  11101.882mil   5467.882mil  11101.882mil   5501.346mil  11101.882mil  T        180.00 10K            
+RP16       CR1608-0603       5117.882mil  10728.418mil   5117.882mil  10728.418mil   5117.882mil  10694.954mil  T         90.00 10K            
+RP15       CR1608-0603       5177.882mil  10728.418mil   5177.882mil  10728.418mil   5177.882mil  10694.954mil  T         90.00 10K            
+RP14       CR1608-0603       5467.882mil  10981.882mil   5467.882mil  10981.882mil   5434.418mil  10981.882mil  T          0.00 30.1K          
+RP13       CR1608-0603       5237.882mil  10728.418mil   5237.882mil  10728.418mil   5237.882mil  10694.954mil  T         90.00 10K            
+RP12       CR1608-0603       5467.882mil  10921.882mil   5467.882mil  10921.882mil   5434.418mil  10921.882mil  T          0.00 30.1K          
+RP11       CR1608-0603       5297.882mil  10728.418mil   5297.882mil  10728.418mil   5297.882mil  10694.954mil  T         90.00 10K            
+RP10       CR1608-0603       5467.882mil  10861.882mil   5467.882mil  10861.882mil   5434.418mil  10861.882mil  T          0.00 30.1K          
+RP8        CR1608-0603       5467.882mil  10801.882mil   5467.882mil  10801.882mil   5434.418mil  10801.882mil  T          0.00 30.1K          
+RP6        CR1608-0603       5347.882mil  11281.882mil   5347.882mil  11281.882mil   5347.882mil  11315.346mil  T        270.00 10K            
+RP5        CR1608-0603       5467.882mil  11281.882mil   5467.882mil  11281.882mil   5501.346mil  11281.882mil  T        180.00 100K           
+RP4        CR1608-0603       5287.882mil  11281.882mil   5287.882mil  11281.882mil   5287.882mil  11315.346mil  T        270.00 10K            
+RP3        CR1608-0603           5467mil      11161mil       5467mil      11161mil   5500.464mil      11161mil  T        180.00 100K           
+RP2        CR1608-0603       5467.882mil  11341.882mil   5467.882mil  11341.882mil   5501.346mil  11341.882mil  T        180.00 10K            
+RP1        CR1608-0603       5467.882mil  11221.882mil   5467.882mil  11221.882mil   5501.346mil  11221.882mil  T        180.00 10K            
+R126       CR1608-0603           8853mil       9600mil       8853mil       9600mil       8853mil   9633.464mil  T        270.00 DNL            
+R125       CR1608-0603           8919mil       9600mil       8919mil       9600mil       8919mil   9633.464mil  T        270.00 DNL            
+R120       CR1608-0603          12680mil       6547mil      12680mil       6547mil      12680mil   6580.464mil  T        270.00 0              
+R119       CR1608-0603          11715mil       6555mil      11715mil       6555mil      11715mil   6588.464mil  T        270.00 0              
+R118       CR1608-0603          12796mil       6719mil      12796mil       6719mil  12829.464mil       6719mil  T        180.00 10K            
+R112       CR1608-0603          12680mil       6673mil      12680mil       6673mil      12680mil   6706.464mil  T        270.00 10K            
+R88        CR1608-0603       8984.787mil  10514.621mil   8984.787mil  10514.621mil   8984.787mil  10481.157mil  T         90.00 DNL            
+R87        CR1608-0603           7819mil       9083mil       7819mil       9083mil   7852.464mil       9083mil  T        180.00 DNL            
+R83        CR1608-0603       8984.787mil  10234.621mil   8984.787mil  10234.621mil   8984.787mil  10268.085mil  T        270.00 4.99K          
+R81        CR1608-0603       8984.787mil  10374.621mil   8984.787mil  10374.621mil   8984.787mil  10408.085mil  T        270.00 681            
+R80        CR1608-0603       8984.787mil  10654.621mil   8984.787mil  10654.621mil   8984.787mil  10688.085mil  T        270.00 681            
+R71        CR1608-0603          11660mil       9540mil      11660mil       9540mil      11660mil   9573.464mil  T        270.00 0              
+R54        CR1608-0603       8980.787mil  11068.315mil   8980.787mil  11068.315mil   8980.787mil  11101.779mil  T        270.00 160            
+R51        CR1608-0603       8860.787mil  11068.315mil   8860.787mil  11068.315mil   8860.787mil  11101.779mil  T        270.00 160            
+R49        CR1608-0603           8741mil      10759mil       8741mil      10759mil       8741mil  10725.536mil  T         90.00 160            
+R48        CR1608-0603           8621mil      10760mil       8621mil      10760mil       8621mil  10726.536mil  T         90.00 160            
+R46        CR1608-0603          11497mil       9905mil      11497mil       9905mil      11497mil   9938.464mil  T        270.00 0              
+R45        CR1608-0603          11300mil       9540mil      11300mil       9540mil      11300mil   9573.464mil  T        270.00 0              
+R44        CR1608-0603          11360mil       9540mil      11360mil       9540mil      11360mil   9573.464mil  T        270.00 0              
+R40        CR1608-0603          11601mil       9906mil      11601mil       9906mil      11601mil   9939.464mil  T        270.00 0              
+R39        CR1608-0603          11180mil       9540mil      11180mil       9540mil      11180mil   9573.464mil  T        270.00 0              
+R38        CR1608-0603          11240mil       9540mil      11240mil       9540mil      11240mil   9573.464mil  T        270.00 0              
+R37        CR1608-0603          11420mil       9540mil      11420mil       9540mil      11420mil   9573.464mil  T        270.00 0              
+R36        CR1608-0603          11480mil       9540mil      11480mil       9540mil      11480mil   9573.464mil  T        270.00 0              
+R35        CR1608-0603          11539mil       9540mil      11539mil       9540mil      11539mil   9573.464mil  T        270.00 0              
+R34        CR1608-0603          11599mil       9540mil      11599mil       9540mil      11599mil   9573.464mil  T        270.00 0              
+DS13       SMD__LED              9086mil      10304mil       9086mil      10304mil       9086mil  10341.402mil  T         90.00 LED0805, RED   
+DS12       SMD__LED              9084mil      10583mil       9084mil      10583mil       9084mil  10620.402mil  T         90.00 LED0805, RED   
+D7         SMD__LED          8980.787mil  10908.315mil   8980.787mil  10908.315mil   8980.787mil  10945.717mil  T         90.00 LED0805, GRN   
+D5         SMD__LED          8860.787mil  10908.315mil   8860.787mil  10908.315mil   8860.787mil  10945.717mil  T         90.00 LED0805, GRN   
+D3         SMD__LED          8740.787mil  10908.315mil   8740.787mil  10908.315mil   8740.787mil  10870.913mil  T        270.00 LED0805, GRN   
+D2         SMD__LED          8620.787mil  10908.315mil   8620.787mil  10908.315mil   8620.787mil  10870.913mil  T        270.00 LED0805, GRN   
+D1         SMD__LED          5087.882mil  11261.882mil   5087.882mil  11261.882mil   5125.284mil  11261.882mil  T          0.00 LED0805, YEL   
+CT3        CC3225-1210          12932mil       6521mil      12932mil       6521mil  12876.882mil       6521mil  T          0.00 10uF x 16V     
+CT1        CC3225-1210          12134mil   6722.268mil      12134mil   6722.268mil  12189.118mil   6722.268mil  T        180.00 10uF x 16V     
+CP2        CC1608-0603       5047.882mil  10881.882mil   5047.882mil  10881.882mil   5047.882mil  10848.418mil  T         90.00 0.1uF          
+CP1        CC3225-1210       5007.882mil  11081.882mil   5007.882mil  11081.882mil   5007.882mil  11137.001mil  T        270.00 10uF x 16V     
+R33        CR1608-0603           8518mil       9601mil       8518mil       9601mil       8518mil   9634.464mil  T        270.00 DNL            
+R32        CR1608-0603           8467mil       9601mil       8467mil       9601mil       8467mil   9634.464mil  T        270.00 DNL            
+R31        CR1608-0603           8520mil       8020mil       8520mil       8020mil       8520mil   8053.464mil  T        270.00 DNL            
+R30        CR1608-0603           8460mil       8020mil       8460mil       8020mil       8460mil   8053.464mil  T        270.00 DNL            
+R29        CR1608-0603           8271mil       9599mil       8271mil       9599mil       8271mil   9632.464mil  T        270.00 DNL            
+R28        CR1608-0603           7780mil       8440mil       7780mil       8440mil   7813.464mil       8440mil  T        180.00 DNL            
+R27        CR1608-0603           8221mil       9599mil       8221mil       9599mil       8221mil   9632.464mil  T        270.00 DNL            
+R26        CR1608-0603           7780mil       8500mil       7780mil       8500mil   7813.464mil       8500mil  T        180.00 DNL            
+P4         TrmBlk6               8560mil       6200mil       8310mil       6200mil       8310mil       6200mil  T          0.00 CONN, Power Term, Phoenix 1725698
+U15        SSO-G16/X.45         12580mil   8139.999mil      12580mil       8140mil  12446.142mil   8229.566mil  T        270.00 IC, ADM3202ARUZ
+SW3        TP11SH8ABE           12571mil      12097mil      12471mil      12197mil      12471mil      11997mil  T          0.00 SW, TP11SH8ABE 
+SW1        EVPAA             8921.071mil   9982.528mil       8988mil       9953mil   8854.142mil       9953mil  T        180.00 SW, EVP-AA402W 
+R24        CR1608-0603          12860mil       8180mil      12860mil       8180mil      12860mil   8146.536mil  T         90.00 4.99K          
+R23        CR1608-0603          12800mil       8180mil      12800mil       8180mil      12800mil   8146.536mil  T         90.00 4.99K          
+R20        CR1608-0603           9591mil      10064mil       9591mil      10064mil       9591mil  10030.536mil  T         90.00 DNL            
+R19        CR1608-0603           9731mil       9964mil       9731mil       9964mil   9764.464mil       9964mil  T        180.00 DNL            
+R18        CR1608-0603           8914mil      10093mil       8914mil      10093mil   8880.536mil      10093mil  T          0.00 4.99K          
+J15        HDR1X3               12980mil       8140mil      12980mil       8240mil      12980mil       8240mil  T        270.00 Header 3       
+J14        HDR1X3               12980mil       7820mil      12980mil       7920mil      12980mil       7920mil  T        270.00 Header 3       
+J13        MHDR1X2          12901.063mil   8471.772mil  12926.063mil   8471.772mil  12926.063mil   8471.772mil  T        180.00 SN             
+J12        MHDR1X2          12901.063mil   8571.772mil  12926.063mil   8571.772mil  12926.063mil   8571.772mil  T        180.00 SN             
+J11        MHDR1X2          12901.063mil   8671.772mil  12926.063mil   8671.772mil  12926.063mil   8671.772mil  T        180.00 SN             
+J10        MHDR1X2          12901.063mil   8771.772mil  12926.063mil   8771.772mil  12926.063mil   8771.772mil  T        180.00 SN             
+J9         MHDR1X2          12901.063mil   8871.772mil  12926.063mil   8871.772mil  12926.063mil   8871.772mil  T        180.00 SN             
+J8         MHDR1X2          12901.063mil   8971.772mil  12926.063mil   8971.772mil  12926.063mil   8971.772mil  T        180.00 SN             
+J7         MHDR1X2          12901.063mil   9071.772mil  12926.063mil   9071.772mil  12926.063mil   9071.772mil  T        180.00 SN             
+J6         MHDR1X2          12901.063mil   9171.772mil  12926.063mil   9171.772mil  12926.063mil   9171.772mil  T        180.00 SN             
+C44        CC1608-0603          12360mil       8080mil      12360mil       8080mil      12360mil   8046.536mil  T         90.00 0.1uF          
+C43        CC1608-0603          12360mil       8220mil      12360mil       8220mil      12360mil   8186.536mil  T         90.00 0.1uF          
+C41        CC1608-0603          12720mil       8340mil      12720mil       8340mil      12720mil   8373.464mil  T        270.00 0.1uF          
+C40        CC1608-0603          12580mil       8300mil      12580mil       8300mil  12546.536mil       8300mil  T          0.00 0.1uF          
+U29        SOP23-8          12773.433mil   6977.677mil  12718.315mil   7016.063mil  12718.315mil   7016.063mil  T          0.00 IC, MAX6734KAZGD3-T
+RT6        CR1608-0603           9312mil       8536mil       9312mil       8536mil       9312mil   8569.464mil  T        270.00 49.9           
+R135       CR1608-0603      13018.315mil   6986.063mil  13018.315mil   6986.063mil  13018.315mil   6952.599mil  T         90.00 249            
+R134       CR1608-0603      12958.315mil   6986.063mil  12958.315mil   6986.063mil  12958.315mil   6952.599mil  T         90.00 4.99K          
+R133       CR1608-0603      12598.315mil   6986.063mil  12598.315mil   6986.063mil  12564.851mil   6986.063mil  T          0.00 0              
+R132       CR1608-0603      12838.315mil   7126.063mil  12838.315mil   7126.063mil  12838.315mil   7159.527mil  T        270.00 10K            
+R131       CR1608-0603      12598.315mil   6926.063mil  12598.315mil   6926.063mil  12631.779mil   6926.063mil  T        180.00 0              
+R130       CR1608-0603      12898.315mil   7126.063mil  12898.315mil   7126.063mil  12898.315mil   7092.599mil  T         90.00 40K            
+R129       CR1608-0603      12898.315mil   6986.063mil  12898.315mil   6986.063mil  12898.315mil   7019.527mil  T        270.00 DNL            
+R128       CR1608-0603      12598.315mil   7046.063mil  12598.315mil   7046.063mil  12564.851mil   7046.063mil  T          0.00 0              
+R127       CR1608-0603      12598.315mil   7146.063mil  12598.315mil   7146.063mil  12564.851mil   7146.063mil  T          0.00 DNL            
+R15        CR1608-0603          10215mil       9636mil      10215mil       9636mil  10181.536mil       9636mil  T          0.00 DNL            
+R14        CR1608-0603           9340mil       8629mil       9340mil       8629mil   9373.464mil       8629mil  T        180.00 DNL            
+J24        HDR1X2               12434mil       7052mil      12434mil       7002mil      12434mil       7002mil  T         90.00 Header 2       
+DS16       SMD__LED         12778.315mil   6846.063mil  12778.315mil   6846.063mil  12815.717mil   6846.063mil  T          0.00 LED0805, RED   
+C14        CC1608-0603           9401mil       8531mil       9401mil       8531mil   9434.464mil       8531mil  T        180.00 0.22uF         
+C13        CC1005-0402           9392mil       8576mil       9392mil       8576mil    9417.59mil       8576mil  T        180.00 47nF           
+C290       TC6032-2412          10901mil       8138mil      10901mil       8138mil      10901mil   8236.425mil  T        270.00 100uF x 10V    
+C289       TC6032-2412          10626mil       8493mil      10626mil       8493mil  10527.575mil       8493mil  T          0.00 100uF x 10V    
+C29        TC6032-2412          10999mil       8716mil      10999mil       8716mil  10900.575mil       8716mil  T          0.00 100uF x 10V    
+C28        TC6032-2412          10682mil       9317mil      10682mil       9317mil      10682mil   9415.425mil  T        270.00 100uF x 10V    
+C27        TC6032-2412          10626mil       8300mil      10626mil       8300mil  10527.575mil       8300mil  T          0.00 100uF x 10V    
+C26        TC6032-2412           9455mil       8199mil       9455mil       8199mil       9455mil   8100.575mil  T         90.00 100uF x 10V    
+C23        TC6032-2412          10205mil       8818mil      10205mil       8818mil  10303.425mil       8818mil  T        180.00 100uF x 10V    
+C20        TC6032-2412          10626mil       8073mil      10626mil       8073mil  10527.575mil       8073mil  T          0.00 100uF x 10V    
+C17        TC6032-2412          10618mil       9586mil      10618mil       9586mil  10519.575mil       9586mil  T          0.00 100uF x 10V    
+RT1_8      0402_Array_2HV    9688.897mil   8069.528mil       9620mil       8040mil   9615.078mil       8040mil  T         90.00 47 EXB-2HV470JV
+RT1_7      0402_Array_2HV    9871.103mil   8810.472mil       9940mil       8840mil   9944.922mil       8840mil  T        270.00 47 EXB-2HV470JV
+RT1_6      0402_Array_2HV   10028.897mil   8069.528mil       9960mil       8040mil   9955.078mil       8040mil  T         90.00 47 EXB-2HV470JV
+RT1_5      0402_Array_2HV   10331.103mil   9540.472mil      10400mil       9570mil  10404.922mil       9570mil  T        270.00 47 EXB-2HV470JV
+RT1_4      0402_Array_2HV    9691.103mil   9540.472mil       9760mil       9570mil   9764.922mil       9570mil  T        270.00 47 EXB-2HV470JV
+R12        CR1608-0603           8924mil      11654mil       8924mil      11654mil   8957.464mil      11654mil  T        180.00 100            
+R11        CR1608-0603           8800mil      11654mil       8800mil      11654mil   8833.464mil      11654mil  T        180.00 100            
+R10        CR1608-0603       9784.378mil  11208.157mil   9784.378mil  11208.157mil   9817.842mil  11208.157mil  T        180.00 DNL            
+R9         CR1608-0603       9744.378mil  11308.157mil   9744.378mil  11308.157mil   9744.378mil  11274.693mil  T         90.00 DNL            
+R8         CR1608-0603       9824.378mil  11308.157mil   9824.378mil  11308.157mil   9824.378mil  11274.693mil  T         90.00 DNL            
+R7         CR1608-0603       9404.378mil  11208.157mil   9404.378mil  11208.157mil   9437.842mil  11208.157mil  T        180.00 DNL            
+R6         CR1608-0603       9364.378mil  11308.157mil   9364.378mil  11308.157mil   9364.378mil  11274.693mil  T         90.00 DNL            
+R5         CR1608-0603       9444.378mil  11308.157mil   9444.378mil  11308.157mil   9444.378mil  11274.693mil  T         90.00 DNL            
+P3         DSUB1.385-2H25A   7251.465mil  11980.826mil   7251.465mil  12354.843mil   6599.261mil  11924.921mil  T          0.00 CONN, DB25f R/A, 0.318"
+U12        TSOP-66           10029.45mil   8451.496mil       9620mil       8220mil       9620mil       8220mil  T         90.00 IC, DDR SDRAM MT46V16M16P-6T IT:F TR
+J17_2      120603-2             10253mil   7629.134mil      11060mil       7700mil      11060mil   7558.268mil  T        270.00 CONN, 120603-2 IEEE1386 84pin Receptacle
+J17_1      120603-1             11890mil   7629.134mil      12500mil       7700mil      12500mil   7558.268mil  T        270.00 CONN, 120603-1 IEEE1386 64pin Receptacle
+J16_2      120603-2              5493mil   7629.134mil       6300mil       7700mil       6300mil   7558.268mil  T        270.00 CONN, 120603-2 IEEE1386 84pin Receptacle
+J16_1      120603-1              7130mil   7629.134mil       7740mil       7700mil       7740mil   7558.268mil  T        270.00 CONN, 120603-1 IEEE1386 64pin Receptacle
+C235       CC7343-31_Dsize       9366mil       9928mil       9366mil       9928mil   9251.826mil       9928mil  T          0.00 330uF x 10V    
+C184       CC7343-31_Dsize       7740mil       9360mil       7740mil       9360mil       7740mil   9245.826mil  T         90.00 330uF x 10V    
+C148       CC7343-31_Dsize       7657mil       8210mil       7657mil       8210mil   7771.174mil       8210mil  T        180.00 330uF x 10V    
+U33        TS5B                  4820mil       6916mil       4820mil       6916mil   4986.338mil   6782.142mil  T         90.00 REG, Linear 3.3V, LP3966ES-3.3
+U21        LED_Tri_          9180.591mil  12057.638mil       9180mil      12060mil   9231.182mil  11957.638mil  T        180.00 LED Front Panel GGG
+R155       CR1608-0603           5317mil       6781mil       5317mil       6781mil   5350.464mil       6781mil  T        180.00 10K            
+R154       CR1608-0603           5178mil       6815mil       5178mil       6815mil       5178mil   6781.536mil  T         90.00 DNL            
+R79        CR1608-0603           9233mil      11840mil       9233mil      11840mil       9233mil  11873.464mil  T        270.00 249            
+R78        CR1608-0603           9360mil       7160mil       9360mil       7160mil       9360mil   7126.536mil  T         90.00 4.99K          
+R77        CR1608-0603           8540mil       7160mil       8540mil       7160mil       8540mil   7126.536mil  T         90.00 0              
+R76        CR1608-0603           9382mil       6896mil       9382mil       6896mil       9382mil   6862.536mil  T         90.00 10K            
+R75        CR1608-0603           8640mil       7160mil       8640mil       7160mil       8640mil   7126.536mil  T         90.00 10K            
+L6         MLC_inductor          8310mil       6600mil       8310mil       6600mil       8310mil    6442.52mil  T         90.00 2.7uH, 15A PM12645S-2R7M
+L5         MLC_inductor          8850mil       6600mil       8850mil       6600mil       8850mil    6442.52mil  T         90.00 2.7uH, 15A PM12645S-2R7M
+F2         Fuse_5.88mm           7971mil   6246.748mil       7971mil       6131mil       7971mil       6131mil  T         90.00 FUSE, RGE400, 4A, 0.039ohm
+F1         Fuse_5.88mm           9190mil   6247.748mil       9190mil       6132mil       9190mil       6132mil  T         90.00 FUSE, RGE400, 4A, 0.039ohm
+D11        DIODE-0.7             7970mil       7020mil       7970mil       7020mil       7970mil       6670mil  T         90.00 Zener, 1N5344BRL
+D10        DIODE-0.7             9189mil       7041mil       9189mil       7041mil       9189mil       7391mil  T        270.00 Zener, 1N5344BRL
+C345       TC6032-2412           8900mil       7260mil       8900mil       7260mil   8998.425mil       7260mil  T        180.00 100uF x 10V    
+C326       TC6032-2412           5129mil       7286mil       5129mil       7286mil   5227.425mil       7286mil  T        180.00 100uF x 10V    
+C325       TC6032-2412           5440mil       7034mil       5440mil       7034mil       5440mil   6935.575mil  T         90.00 100uF x 10V    
+C276       CC4532-1812           8340mil       6980mil       8340mil       6980mil       8340mil   7056.772mil  T        270.00 33uF x 16V     
+C275       TC6032-2412           8181mil       7014mil       8181mil       7014mil       8181mil   7112.425mil  T        270.00 100uF x 10V    
+C274       TC6032-2412           7685mil       6617mil       7685mil       6617mil       7685mil   6715.425mil  T        270.00 100uF x 10V    
+C273       CC4532-1812           8820mil       6980mil       8820mil       6980mil       8820mil   6903.228mil  T         90.00 33uF x 16V     
+C272       TC6032-2412           8993mil       7019mil       8993mil       7019mil       8993mil   6920.575mil  T         90.00 100uF x 10V    
+C271       TC6032-2412           9492mil       6535mil       9492mil       6535mil   9393.575mil       6535mil  T          0.00 100uF x 10V    
+Q3         SOT23                 9440mil      11760mil       9440mil      11760mil   9487.244mil  11722.598mil  T         90.00 IC, MMBT3904   
+C7         CC1608-0603           7572mil      11251mil       7572mil      11251mil   7605.464mil      11251mil  T        180.00 0.1uF          
+C288       CC1608-0603          11687mil       6774mil      11687mil       6774mil  11720.464mil       6774mil  T        180.00 DNL            
+C327       CC7343-31_Dsize   6729.126mil  11340.763mil   6729.126mil  11340.763mil   6729.126mil   11226.59mil  T         90.00 100uF x 16V    
+C328       TC6032-2412           6430mil      11539mil       6430mil      11539mil       6430mil  11440.575mil  T         90.00 100uF x 10V    
+C329       CC1608-0603       6269.126mil  10920.763mil   6269.126mil  10920.763mil   6269.126mil  10887.299mil  T         90.00 0.1uF          
+C330       CC7343-31_Dsize   7289.126mil  11340.763mil   7289.126mil  11340.763mil   7289.126mil  11454.938mil  T        270.00 100uF x 16V    
+C331       TC6032-2412           7005mil      11537mil       7005mil      11537mil       7005mil  11635.425mil  T        270.00 100uF x 10V    
+C332       CC1608-0603       6979.063mil  10921.937mil   6979.063mil  10921.937mil   6979.063mil  10888.473mil  T         90.00 0.1uF          
+C333       CC7343-31_Dsize       7424mil      10076mil       7424mil      10076mil       7424mil   9961.826mil  T         90.00 100uF x 16V    
+C334       CC7343-31_Dsize   7042.063mil   9872.937mil   7042.063mil   9872.937mil   7042.063mil   9987.111mil  T        270.00 100uF x 16V    
+C335       CC1608-0603       6836.063mil   9962.937mil   6836.063mil   9962.937mil   6836.063mil   9929.473mil  T         90.00 0.1uF          
+C336       CC7343-31_Dsize   5913.063mil  10136.937mil   5913.063mil  10136.937mil   5913.063mil  10251.111mil  T        270.00 100uF x 16V    
+C337       CC7343-31_Dsize   6562.063mil   9869.937mil   6562.063mil   9869.937mil   6562.063mil   9755.763mil  T         90.00 100uF x 16V    
+C338       CC1608-0603       6235.126mil   9960.763mil   6235.126mil   9960.763mil   6235.126mil   9927.299mil  T         90.00 0.1uF          
+F3         Fuse_5.88mm           7228mil  10112.748mil       7228mil       9997mil       7228mil       9997mil  T         90.00 FUSE, RXE040, 0.4A, 0.86ohm
+F4         Fuse_5.88mm           6105mil   9961.748mil       6105mil       9846mil       6105mil       9846mil  T         90.00 FUSE, RXE040, 0.4A, 0.86ohm
+J1         HDR1X2               10617mil       7003mil      10617mil       6953mil      10617mil       6953mil  T         90.00 Header 2       
+J2         HDR1X2               11290mil       7024mil      11290mil       6974mil      11290mil       6974mil  T         90.00 Header 2       
+J3         HDR1X2           11683.937mil   7012.882mil  11683.937mil   6962.882mil  11683.937mil   6962.882mil  T         90.00 Header 2       
+J4         HDR1X2               12309mil       7052mil      12309mil       7002mil      12309mil       7002mil  T         90.00 Header 2       
+L1         INDC2012-0805         8288mil      11780mil       8288mil      11780mil       8288mil   11740.63mil  T         90.00 Ferrite bead   
+L2         INDC2012-0805         8176mil      11780mil       8176mil      11780mil       8176mil   11819.37mil  T        270.00 Ferrite bead   
+L7         INDC2012-0805        11595mil       6815mil      11595mil       6815mil      11595mil    6775.63mil  T         90.00 DNL            
+R1         CR1608-0603      10673.937mil   7192.882mil  10673.937mil   7192.882mil  10673.937mil   7159.418mil  T         90.00 10K            
+R2         CR1608-0603      10943.937mil   7152.882mil  10943.937mil   7152.882mil  10977.401mil   7152.882mil  T        180.00 681            
+R3         CR1608-0603          11584mil       7097mil      11584mil       7097mil      11584mil   7063.536mil  T         90.00 20R0           
+R4         CR1608-0603          11782mil       7142mil      11782mil       7142mil      11782mil   7108.536mil  T         90.00 20R0           
+R13        CR1608-0603       7691.465mil  11284.843mil   7691.465mil  11284.843mil   7691.465mil  11251.379mil  T         90.00 10K            
+R113       CR1608-0603          11517mil       6810mil      11517mil       6810mil      11517mil   6776.536mil  T         90.00 0              
+R115       CR1608-0603          11786mil       6861mil      11786mil       6861mil      11786mil   6894.464mil  T        270.00 DNL            
+R116       CR1608-0603          11864mil       7048mil      11864mil       7048mil  11830.536mil       7048mil  T          0.00 DNL            
+R117       CR1608-0603          11864mil       6997mil      11864mil       6997mil  11830.536mil       6997mil  T          0.00 DNL            
+R156       CR1608-0603       6609.126mil  10920.763mil   6609.126mil  10920.763mil   6609.126mil  10887.299mil  T         90.00 10K            
+R157       CR1608-0603       6329.126mil  10920.763mil   6329.126mil  10920.763mil   6329.126mil  10887.299mil  T         90.00 10K            
+R158       CR1608-0603       6649.126mil  11020.763mil   6649.126mil  11020.763mil    6682.59mil  11020.763mil  T        180.00 10K            
+R159       CR1608-0603       6669.126mil  10920.763mil   6669.126mil  10920.763mil   6669.126mil  10887.299mil  T         90.00 10K            
+R160       CR1608-0603       7099.063mil  10920.937mil   7099.063mil  10920.937mil   7099.063mil  10887.473mil  T         90.00 10K            
+R161       CR1608-0603       6918.063mil  10921.937mil   6918.063mil  10921.937mil   6918.063mil  10888.473mil  T         90.00 10K            
+R162       CR1608-0603       6789.126mil  11020.763mil   6789.126mil  11020.763mil   6755.662mil  11020.763mil  T          0.00 10K            
+R163       CR1608-0603       6775.063mil   9962.937mil   6775.063mil   9962.937mil   6775.063mil   9996.401mil  T        270.00 27K            
+R164       CR1608-0603       6714.063mil   9962.937mil   6714.063mil   9962.937mil   6714.063mil   9929.473mil  T         90.00 170K           
+R165       CR1608-0603       6295.126mil   9960.763mil   6295.126mil   9960.763mil   6295.126mil   9994.228mil  T        270.00 1.5K           
+R166       CR1608-0603       6355.126mil   9960.763mil   6355.126mil   9960.763mil   6355.126mil   9927.299mil  T         90.00 240            
+R167       CR1608-0603       7511.465mil  11784.843mil   7511.465mil  11784.843mil   7544.929mil  11784.843mil  T        180.00 100            
+R168       CR1608-0603           7649mil      11782mil       7649mil      11782mil   7682.464mil      11782mil  T        180.00 100            
+U5         DIP_Osc               8310mil       7500mil       8160mil       7350mil       8160mil       7350mil  T         90.00 CONN, Oscillator Socket, Half Size
+U25        LED_Tri_         12000.591mil  12057.638mil      12000mil      12060mil  12051.182mil  11957.638mil  T        180.00 LED Front Panel GYR
+P2         CNVME96               5967mil       6259mil       7517mil       6209mil       7517mil       6209mil  T          0.00 CONN, DIN R/A 96pin 650473-5
+P1         CNVME96              11217mil       6259mil      12767mil       6209mil      12767mil       6209mil  T          0.00 CONN, DIN R/A 96pin 650473-5
+D17        A-500             7269.126mil  10720.763mil   7269.126mil  10720.763mil   7269.126mil  11024.897mil  T        270.00 Zener, 1N5350BRLG
+D18        A-500             6089.126mil  10720.763mil   6089.126mil  10720.763mil   6089.126mil  10416.629mil  T         90.00 Zener, 1N5350BRLG
+Q4         SOT223            6429.127mil  11200.763mil   6429.126mil  11200.763mil   6338.576mil  11078.716mil  T          0.00 IC, ZXMP4A16G  
+Q5         SOT23             6489.126mil  10920.763mil   6489.126mil  10920.763mil   6526.528mil  10968.007mil  T        180.00 IC, MMBT3904   
+Q6         SOT223            7009.127mil  11200.763mil   7009.126mil  11200.763mil   6918.576mil  11078.716mil  T          0.00 IC, NDT451AN   
+Q7         SOT23             6789.126mil  10900.763mil   6789.126mil  10900.763mil   6826.528mil  10948.007mil  T        180.00 IC, MMBT3906   
+U3         TSSO3x5-G8/X.35  11493.936mil   6962.882mil  11493.937mil   6962.882mil  11575.629mil   6924.496mil  T         90.00 IC, SN74AVC2T45DCTR
+U4         SOP8             12083.937mil   7022.882mil  12083.937mil   7022.882mil  12186.299mil   6947.882mil  T         90.00 IC, DS92LV010ATM
+U6         SO-G8/Y1.9        9401.465mil  11019.843mil   9401.465mil  11019.843mil   9326.465mil  10909.606mil  T          0.00 IC, ADM3485EARZ, RS485Transceiver
+U7         SO-G8/Y1.9        9784.378mil  11028.157mil   9784.378mil  11028.157mil   9709.378mil  10917.922mil  T          0.00 IC, ADM3485EARZ, RS485Transceiver
+U9         TSSO5x6-G16       7551.001mil      11505mil       7551mil      11505mil   7640.568mil  11614.252mil  T        180.00 IC, DS90LV049TMT
+U28        M08A                 10660mil       8800mil      10660mil       8800mil  10557.638mil       8875mil  T        270.00 REG, LP2996M, DDR Termination
+R21        CR1608-0603           9971mil      10064mil       9971mil      10064mil       9971mil  10030.536mil  T         90.00 10K            
+R22        CR1608-0603           9871mil       9964mil       9871mil       9964mil   9904.464mil       9964mil  T        180.00 10K            
+U16        TSSOP8-4.4        9787.347mil  10067.299mil   9664.315mil  10105.685mil   9664.315mil  10105.685mil  T          0.00 DNL, EEPROM 24LC04B
+C284       TC6032-2412           6341mil       9549mil       6341mil       9549mil       6341mil   9450.575mil  T         90.00 10uF x 25V     
+DS14       SMD__LED              4260mil      11820mil       4260mil      11820mil   4222.598mil      11820mil  T        180.00 LED0805, RED   
+DS15       SMD__LED              4260mil      11940mil       4260mil      11940mil   4222.598mil      11940mil  T        180.00 LED0805, GRN   
+J19        HDR2X5                4270mil      11140mil       4320mil      10940mil       4320mil      10940mil  T         90.00 Header 5X2     
+J22        HDR1X6                4260mil       7290mil       4260mil       7040mil       4260mil       7040mil  T         90.00 Header 6       
+PCF        CF_AVX5611        5436.457mil       8900mil       4840mil       8900mil   5875.433mil     9512.5mil  T        270.00 CONN, Compact Flash, AVX315610050500871
+R82        CR1608-0603           6805mil       8329mil       6805mil       8329mil       6805mil   8362.464mil  T        270.00 4.99K          
+R91        CR1608-0603           6687mil   9383.999mil       6687mil       9384mil       6687mil   9417.465mil  T        270.00 0              
+R92        CR1608-0603           4440mil      11040mil       4440mil      11040mil       4440mil  11073.464mil  T        270.00 4.99K          
+R93        CR1608-0603           6550mil       9382mil       6550mil       9382mil       6550mil   9415.464mil  T        270.00 4.99K          
+R94        CR1608-0603           4420mil      11820mil       4420mil      11820mil   4386.536mil      11820mil  T          0.00 681            
+R95        CR1608-0603           4320mil  10119.999mil       4320mil      10120mil       4320mil  10153.465mil  T        270.00 4.99K          
+R96        CR1608-0603           7880mil      11320mil       7880mil      11320mil   7846.536mil      11320mil  T          0.00 4.99K          
+R97        CR1608-0603           7880mil      11120mil       7880mil      11120mil   7846.536mil      11120mil  T          0.00 4.99K          
+R98        CR1608-0603           7880mil      10920mil       7880mil      10920mil   7846.536mil      10920mil  T          0.00 4.99K          
+R99        CR1608-0603           4420mil      11940mil       4420mil      11940mil   4386.536mil      11940mil  T          0.00 681            
+R100       CR1608-0603           7880mil      11220mil       7880mil      11220mil   7846.536mil      11220mil  T          0.00 4.99K          
+R101       CR1608-0603          12120mil  11279.999mil      12120mil      11280mil      12120mil  11313.465mil  T        270.00 330            
+R102       CR1608-0603           7880mil      10820mil       7880mil      10820mil   7846.536mil      10820mil  T          0.00 4.99K          
+R103       CR1608-0603          11960mil  11279.999mil      11960mil      11280mil      11960mil  11313.465mil  T        270.00 4.99K          
+R104       CR1608-0603          11999mil      11760mil      11999mil      11760mil      11999mil  11793.464mil  T        270.00 120            
+R105       CR1608-0603           4360mil       7200mil       4360mil       7200mil       4360mil   7166.536mil  T         90.00 0              
+R106       CR1608-0603           8624mil   9600.999mil       8624mil       9601mil       8624mil   9634.465mil  T        270.00 1K             
+R108       CR1608-0603           8572mil   9600.999mil       8572mil       9601mil       8572mil   9634.465mil  T        270.00 1K             
+R109       CR1608-0603          12061mil  11759.999mil      12061mil      11760mil      12061mil  11793.465mil  T        270.00 120            
+R110       CR1608-0603           8593mil   8019.999mil       8593mil       8020mil       8593mil   8053.465mil  T        270.00 4.99K          
+R111       CR1608-0603       9340.999mil       8681mil       9341mil       8681mil   9374.465mil       8681mil  T        180.00 4.99K          
+R199       CR1608-0603           7880mil      11020mil       7880mil      11020mil   7846.536mil      11020mil  T          0.00 4.99K          
+J20        HDR1X2                4270mil      10360mil       4220mil      10360mil       4220mil      10360mil  T          0.00 Header 2       
+J21        HDR1X2                4270mil      10260mil       4220mil      10260mil       4220mil      10260mil  T          0.00 Header 2       
+RT11       0402_Array_2HV    6911.103mil   6550.472mil       6980mil       6580mil   6984.922mil       6580mil  T        270.00 0 EXB-2HVR000V 
+RT12       0402_Array_2HV    5911.103mil   6550.472mil       5980mil       6580mil   5984.922mil       6580mil  T        270.00 0 EXB-2HVR000V 
+RT13       0402_Array_2HV    4991.103mil   6550.472mil       5060mil       6580mil   5064.922mil       6580mil  T        270.00 0 EXB-2HVR000V 
+RT18       0402_Array_2HV   10492.103mil    6550.74mil      10561mil   6580.268mil  10565.922mil   6580.268mil  T        270.00 0 EXB-2HVR000V 
+C8_1       TC6032-2412           5700mil       6810mil       5700mil       6810mil   5798.425mil       6810mil  T        180.00 100uF x 10V    
+C8_2       TC6032-2412           6873mil       6773mil       6873mil       6773mil   6971.425mil       6773mil  T        180.00 100uF x 10V    
+C8_3       TC6032-2412           9573mil       6760mil       9573mil       6760mil   9671.425mil       6760mil  T        180.00 100uF x 10V    
+C9_1       TC6032-2412           5678mil       7325mil       5678mil       7325mil   5776.425mil       7325mil  T        180.00 100uF x 10V    
+C9_2       TC6032-2412       6856.173mil   7278.929mil   6856.173mil   7278.929mil   6954.598mil   7278.929mil  T        180.00 100uF x 10V    
+C9_3       TC6032-2412       9565.827mil   7270.929mil   9565.827mil   7270.929mil   9664.252mil   7270.929mil  T        180.00 100uF x 10V    
+C10_1      TC6032-2412           6236mil       6750mil       6236mil       6750mil   6334.425mil       6750mil  T        180.00 100uF x 10V    
+C10_2      TC6032-2412           7322mil       6637mil       7322mil       6637mil       7322mil   6735.425mil  T        270.00 100uF x 10V    
+C10_3      TC6032-2412          10106mil       6738mil      10106mil       6738mil  10204.425mil       6738mil  T        180.00 100uF x 10V    
+C11_1      TC6032-2412           6276mil       7367mil       6276mil       7367mil   6374.425mil       7367mil  T        180.00 100uF x 10V    
+C11_2      TC6032-2412           7416mil       7326mil       7416mil       7326mil   7514.425mil       7326mil  T        180.00 100uF x 10V    
+C11_3      TC6032-2412          10130mil       7373mil      10130mil       7373mil  10228.425mil       7373mil  T        180.00 100uF x 10V    
+C12_1      TC6032-2412           6531mil       6546mil       6531mil       6546mil   6432.575mil       6546mil  T          0.00 100uF x 10V    
+C12_2      TC6032-2412           7486mil       6636mil       7486mil       6636mil       7486mil   6734.425mil  T        270.00 100uF x 10V    
+C12_3      TC6032-2412          10458mil       6714mil      10458mil       6714mil  10359.575mil       6714mil  T        360.00 100uF x 10V    
+C15_1      CC3225-1210           6580mil       7340mil       6580mil       7340mil   6524.882mil       7340mil  T          0.00 10uF x 16V     
+C15_2      CC3225-1210           7732mil       7329mil       7732mil       7329mil   7676.882mil       7329mil  T          0.00 10uF x 16V     
+C15_3      CC3225-1210          10440mil       7382mil      10440mil       7382mil  10384.882mil       7382mil  T          0.00 10uF x 16V     
+C18_1      CC3225-1210           5960mil       6800mil       5960mil       6800mil       5960mil   6744.882mil  T         90.00 2.2uF          
+C18_2      CC3225-1210       7116.173mil   6758.929mil   7116.173mil   6758.929mil   7116.173mil   6703.811mil  T         90.00 2.2uF          
+C18_3      CC3225-1210       9825.827mil   6750.929mil   9825.827mil   6750.929mil   9825.827mil   6695.811mil  T         90.00 2.2uF          
+C19_1      CC1608-0603           5631mil       6971mil       5631mil       6971mil       5631mil   6937.535mil  T         90.00 1nF            
+C19_2      CC1608-0603       6787.173mil   6929.929mil   6787.173mil   6929.929mil   6787.173mil   6896.465mil  T         90.00 1nF            
+C19_3      CC1608-0603       9496.827mil   6921.929mil   9496.827mil   6921.929mil   9496.827mil   6888.465mil  T         90.00 1nF            
+D4         SMD__LED         12927.323mil    9775.78mil  12927.324mil    9775.78mil  12964.725mil    9775.78mil  T          0.00 LED0805, GRN   
+D6         SMD__LED         12917.323mil    9455.78mil  12917.324mil    9455.78mil  12954.725mil    9455.78mil  T          0.00 LED0805, GRN   
+D8         SMD__LED         12917.323mil    9295.78mil  12917.324mil    9295.78mil  12954.725mil    9295.78mil  T          0.00 LED0805, GRN   
+D9         SMD__LED         12917.323mil    9615.78mil  12917.324mil    9615.78mil  12954.725mil    9615.78mil  T          0.00 LED0805, GRN   
+L3_1       MLC_inductor          6380mil       7050mil       6380mil       7050mil    6222.52mil       7050mil  T          0.00 1.2 uH, 2.38 mOhm, 20A, MLC1255-122ML
+L3_2       MLC_inductor          7535mil       7025mil       7535mil       7025mil    7377.52mil       7025mil  T          0.00 1.2 uH, 2.38 mOhm, 20A, MLC1255-122ML
+L3_3       MLC_inductor         10234mil       7034mil      10234mil       7034mil   10076.52mil       7034mil  T          0.00 1.2 uH, 2.38 mOhm, 20A, MLC1255-122ML
+R16_1      CR1608-0603           5705mil       6970mil       5705mil       6970mil       5705mil   7003.465mil  T        270.00 DNL            
+R16_2      CR1608-0603       6861.173mil   6928.929mil   6861.173mil   6928.929mil   6861.173mil   6962.394mil  T        270.00 DNL            
+R16_3      CR1608-0603       9570.827mil   6920.929mil   9570.827mil   6920.929mil   9570.827mil   6954.394mil  T        270.00 DNL            
+R25_1      CR1608-0603           5790mil       7170mil       5790mil       7170mil       5790mil   7136.535mil  T         90.00 100K           
+R25_2      CR1608-0603       6946.173mil   7128.929mil   6946.173mil   7128.929mil   6946.173mil   7095.465mil  T         90.00 100K           
+R25_3      CR1608-0603       9655.827mil   7120.929mil   9655.827mil   7120.929mil   9655.827mil   7087.465mil  T         90.00 100K           
+R47_1      CR1608-0603           5790mil       6970mil       5790mil       6970mil       5790mil   6936.535mil  T         90.00 1M             
+R47_2      CR1608-0603       6946.173mil   6928.929mil   6946.173mil   6928.929mil   6946.173mil   6895.465mil  T         90.00 1M             
+R47_3      CR1608-0603       9655.827mil   6920.929mil   9655.827mil   6920.929mil   9655.827mil   6887.465mil  T         90.00 1M             
+R50        CR1608-0603      12927.324mil    9855.78mil  12927.324mil    9855.78mil  12960.788mil    9855.78mil  T        180.00 249            
+R53        CR1608-0603      12917.324mil    9535.78mil  12917.324mil    9535.78mil  12950.788mil    9535.78mil  T        180.00 249            
+R55        CR1608-0603      12917.324mil    9375.78mil  12917.324mil    9375.78mil  12950.788mil    9375.78mil  T        180.00 249            
+R59        CR1608-0603      12917.324mil    9695.78mil  12917.324mil    9695.78mil  12950.788mil    9695.78mil  T        180.00 249            
+R61        CR1608-0603           9375mil      11989mil       9375mil      11989mil   9341.535mil      11989mil  T          0.00 249            
+R64        CR1608-0603           9375mil      12047mil       9375mil      12047mil   9341.535mil      12047mil  T          0.00 249            
+R124       CR1608-0603          12792mil       6595mil      12792mil       6595mil      12792mil   6628.465mil  T        270.00 0              
+R_OSC1_1   CR1608-0603           5750mil       7070mil       5750mil       7070mil   5716.535mil       7070mil  T          0.00 30.1K          
+R_OSC1_2   CR1608-0603       6906.173mil   7028.929mil   6906.173mil   7028.929mil   6872.709mil   7028.929mil  T        360.00 30.1K          
+R_OSC1_3   CR1608-0603       9615.827mil   7020.929mil   9615.827mil   7020.929mil   9582.362mil   7020.929mil  T        360.00 30.1K          
+U11        TS5B              6909.126mil  10300.763mil   6909.126mil  10300.763mil   6775.268mil  10134.425mil  T          0.00 REG, LM2931CS  
+U14        TS5B              6429.126mil  10300.763mil   6429.126mil  10300.763mil   6295.268mil  10134.425mil  T          0.00 REG, LM2991S   
+CTemp_3    CC1608-0603          12980mil      11880mil      12980mil      11880mil      12980mil  11913.465mil  T        270.00 0.1uF          
+UTemp_1    SO-G6/E2.4            8580mil       6960mil       8580mil       6960mil    8633.15mil   6922.598mil  T         90.00 IC, ADT7301ARTZ
+UTemp_2    SO-G6/E2.4           10920mil       8530mil      10920mil       8530mil   10973.15mil   8492.598mil  T         90.00 IC, ADT7301ARTZ
+UTemp_3    SO-G6/E2.4           12840mil      11880mil      12840mil      11880mil   12893.15mil  11842.598mil  T         90.00 IC, ADT7301ARTZ
+U22        TQFP144               6520mil       8860mil       6520mil       8860mil   6175.512mil   8442.678mil  T         90.00 XCCACE-TQG144I 
+C4         CC1608-0603           8320mil       7240mil       8320mil       7240mil   8353.464mil       7240mil  T        180.00 0.1uF          
+RT1_3      0402_Array_2HV    9648.897mil   8809.528mil       9580mil       8780mil   9575.078mil       8780mil  T         90.00 47 EXB-2HV470JV
+RT1_2      0402_Array_2HV   10021.103mil   9540.472mil      10090mil       9570mil  10094.922mil       9570mil  T        270.00 47 EXB-2HV470JV
+RT1_1      0402_Array_2HV   10358.897mil   8069.528mil      10290mil       8040mil  10285.078mil       8040mil  T         90.00 47 EXB-2HV470JV
+SW4        DIP_SW_SM6POS         8180mil      11060mil       8180mil      11160mil   8355.197mil      10810mil  T         90.00 SW DIP-6, GDH06S
+C259       CC1608-0603          11700mil      11560mil      11700mil      11560mil      11700mil  11526.535mil  T         90.00 0.01uF         
+C260       CC1608-0603          11420mil      11560mil      11420mil      11560mil      11420mil  11526.535mil  T         90.00 0.01uF         
+C261       CC1608-0603          11500mil      11560mil      11500mil      11560mil      11500mil  11526.535mil  T         90.00 0.01uF         
+C262       CC1608-0603          11300mil      11560mil      11300mil      11560mil      11300mil  11526.535mil  T         90.00 0.01uF         
+C400       CC1005-0402          11440mil       8760mil      11440mil       8760mil      11440mil   8785.591mil  T        270.00 47nF           
+C401       CC3225-1210          11360mil       8640mil      11360mil       8640mil      11360mil   8695.118mil  T        270.00 2.2uF          
+R57        CR1608-0603          11700mil      11700mil      11700mil      11700mil      11700mil  11666.535mil  T         90.00 49.9           
+R60        CR1608-0603          11640mil      11700mil      11640mil      11700mil      11640mil  11666.535mil  T         90.00 49.9           
+R62        CR1608-0603          11580mil      11700mil      11580mil      11700mil      11580mil  11666.535mil  T         90.00 49.9           
+R63        CR1608-0603          11400mil      11700mil      11400mil      11700mil      11400mil  11666.535mil  T         90.00 49.9           
+R66        CR1608-0603          11520mil      11700mil      11520mil      11700mil      11520mil  11666.535mil  T         90.00 49.9           
+R69        CR1608-0603          11460mil      11700mil      11460mil      11700mil      11460mil  11666.535mil  T         90.00 49.9           
+R70        CR1608-0603          11320mil      11700mil      11320mil      11700mil      11320mil  11666.535mil  T         90.00 49.9           
+R72        CR1608-0603          11260mil      11700mil      11260mil      11700mil      11260mil  11666.535mil  T         90.00 49.9           
+R452       CR1608-0603          11320mil       8760mil      11320mil       8760mil  11353.465mil       8760mil  T        180.00 2.49K          
+R453       CR1608-0603          11180mil       8840mil      11180mil       8840mil  11213.465mil       8840mil  T        180.00 1K             
+R454       CR1608-0603          11180mil       8900mil      11180mil       8900mil  11146.535mil       8900mil  T          0.00 DNL            
+Uphy       MAA05A               11320mil       8860mil      11320mil       8860mil  11345.591mil    8892.48mil  T        180.00 IC, LMV7219M7  
+R455       CR1608-0603          11319mil       8957mil      11319mil       8957mil  11285.535mil       8957mil  T          0.00 50             
+R456       CR1608-0603          11180mil       8960mil      11180mil       8960mil  11146.535mil       8960mil  T          0.00 160            
+U27        DGV048               12431mil       6673mil      12431mil       6673mil  12612.102mil   6782.252mil  T        180.00 IC, SN74AVCB164245VR
+C270       TC6032-2412          11736mil       8742mil      11736mil       8742mil      11736mil   8840.425mil  T        270.00 10uF x 25V     
+U20        BCC_96           11317.449mil   9179.371mil      11460mil       9340mil      11460mil       9340mil  T          0.00 IC, Marvell 88E1111-CAA
+C600       CC1608-0603           9458mil       8961mil       9458mil       8961mil       9458mil   8927.535mil  T         90.00 2200pF         
+C601       CC1608-0603           9542mil       8987mil       9542mil       8987mil       9542mil   8953.535mil  T         90.00 0.1uF          
+R500       CR1608-0603           9494mil       9106mil       9494mil       9106mil   9527.465mil       9106mil  T        180.00 10K            
+UC1        uSOP8             9361.386mil   8997.425mil       9323mil       8899mil       9323mil       8899mil  T         90.00 IC, MAX6685AU75H
+FM1        Fiducial_mark         4137mil       6549mil       4137mil       6549mil       4137mil       6549mil  T          0.00 Comment        
+FM2        Fiducial_mark        12975mil       7380mil      12975mil       7380mil      12975mil       7380mil  T          0.00 Comment        
+FM3        Fiducial_mark        12952mil      11614mil      12952mil      11614mil      12952mil      11614mil  T          0.00 Comment        
+Q1         SOT23                11967mil      11473mil      11967mil      11473mil  11929.599mil  11425.756mil  T          0.00 IC, MMBT3904   
+Q2         SOT23                12126mil      11474mil      12126mil      11474mil  12088.599mil  11426.756mil  T          0.00 IC, MMBT3904   
+R501       1608[0603]            6826mil       9480mil       6826mil       9480mil       6826mil   9513.465mil  T        270.00 10K            
+C269       CC1608-0603          11180mil       9137mil      11180mil       9137mil      11180mil   9170.465mil  B        270.00 0.1uF          
+CT2        CC1608-0603          12541mil   6674.749mil      12541mil   6674.749mil      12541mil   6641.285mil  B         90.00 0.1uF          
+C5         CC1608-0603           9404mil      11021mil       9404mil      11021mil   9370.536mil      11021mil  B        360.00 0.1uF          
+C6         CC1608-0603           9788mil      11023mil       9788mil      11023mil   9754.536mil      11023mil  B        360.00 0.1uF          
+R123       CR1608-0603           8981mil       8325mil       8981mil       8325mil   8947.536mil       8325mil  B          0.00 DNL            
+R122       CR1608-0603           8972mil       8218mil       8972mil       8218mil       8972mil   8184.536mil  B         90.00 DNL            
+R121       CR1608-0603          12743mil       6538mil      12743mil       6538mil      12743mil   6571.464mil  B        270.00 0              
+CT4        CC1608-0603          12314mil       6678mil      12314mil       6678mil  12347.464mil       6678mil  B        180.00 0.1uF          
+C45        CC1608-0603          12565mil       8204mil      12565mil       8204mil  12531.536mil       8204mil  B        360.00 0.1uF          
+C39        CC1608-0603           9824mil       9288mil       9824mil       9288mil       9824mil   9254.536mil  B         90.00 0.1uF          
+C38        CC1608-0603          10018mil       9055mil      10018mil       9055mil      10018mil   9088.464mil  B        270.00 0.1uF          
+C37        CC1608-0603           9824mil       9055mil       9824mil       9055mil       9824mil   9088.464mil  B        270.00 0.1uF          
+C36        CC1608-0603           9646mil       9055mil       9646mil       9055mil       9646mil   9088.464mil  B        270.00 0.1uF          
+CRT1_8     CC1608-0603           9835mil       8010mil       9835mil       8010mil       9835mil   7976.536mil  B         90.00 0.1uF          
+CRT1_7     CC1608-0603           9850mil       8812mil       9850mil       8812mil   9883.464mil       8812mil  B        180.00 0.1uF          
+CRT1_6     CC1608-0603          10168mil       7992mil      10168mil       7992mil  10201.464mil       7992mil  B        180.00 0.1uF          
+CRT1_5     CC1608-0603          10320mil       9550mil      10320mil       9550mil  10353.464mil       9550mil  B        180.00 0.1uF          
+CRT1_4     CC1608-0603           9746mil       9531mil       9746mil       9531mil   9712.536mil       9531mil  B          0.00 0.1uF          
+C234       CC3216-1206           8343mil       7872mil       8343mil       7872mil       8343mil   7816.882mil  B         90.00 2.2uF          
+C233       CC3216-1206           9344mil       9525mil       9344mil       9525mil   9399.118mil       9525mil  B        180.00 2.2uF          
+C232       CC3216-1206           8261mil       7872mil       8261mil       7872mil       8261mil   7816.882mil  B         90.00 2.2uF          
+C231       CC3216-1206           8698mil       9729mil       8698mil       9729mil       8698mil   9784.118mil  B        270.00 2.2uF          
+C230       CC3216-1206           8438mil       9580mil       8438mil       9580mil       8438mil   9635.118mil  B        270.00 2.2uF          
+C229       CC3216-1206           8294mil       9581mil       8294mil       9581mil       8294mil   9636.118mil  B        270.00 2.2uF          
+C228       CC3216-1206           9182mil       8010mil       9182mil       8010mil       9182mil   7954.882mil  B         90.00 0.68uF         
+C227       CC3216-1206           9088mil       8010mil       9088mil       8010mil       9088mil   7954.882mil  B         90.00 0.68uF         
+C226       CC3216-1206           8020mil       8010mil       8020mil       8010mil       8020mil   7954.882mil  B         90.00 0.68uF         
+C225       CC3216-1206           7936mil       8010mil       7936mil       8010mil       7936mil   7954.882mil  B         90.00 0.68uF         
+C224       CC3216-1206           9210mil       9580mil       9210mil       9580mil       9210mil   9635.118mil  B        270.00 0.68uF         
+C223       CC3216-1206           9090mil       9580mil       9090mil       9580mil       9090mil   9635.118mil  B        270.00 0.68uF         
+C222       CC3216-1206           8004mil       9582mil       8004mil       9582mil       8004mil   9637.118mil  B        270.00 0.68uF         
+C221       CC3216-1206           7871mil       9600mil       7871mil       9600mil       7871mil   9655.118mil  B        270.00 0.68uF         
+C220       CC1608-0603           8967mil   8042.001mil       8967mil       8042mil       8967mil   8008.535mil  B         90.00 0.22uF         
+C219       CC1608-0603           8917mil       8042mil       8917mil       8042mil       8917mil   8008.536mil  B         90.00 0.22uF         
+C218       CC1608-0603           8817mil       8042mil       8817mil       8042mil       8817mil   8008.536mil  B         90.00 0.22uF         
+C217       CC1608-0603           8402mil       8040mil       8402mil       8040mil       8402mil   8006.536mil  B         90.00 0.22uF         
+C216       CC1608-0603           8352mil       8040mil       8352mil       8040mil       8352mil   8006.536mil  B         90.00 0.22uF         
+C215       CC1608-0603           8300mil       8040mil       8300mil       8040mil       8300mil   8006.536mil  B         90.00 0.22uF         
+C214       CC1608-0603           8222mil       8040mil       8222mil       8040mil       8222mil   8006.536mil  B         90.00 0.22uF         
+C213       CC1608-0603           7864mil       8019mil       7864mil       8019mil       7864mil   7985.536mil  B         90.00 0.22uF         
+C212       CC1608-0603           8580mil       8860mil       8580mil       8860mil       8580mil   8893.464mil  B        270.00 0.22uF         
+C211       CC1608-0603           9024mil       9559mil       9024mil       9559mil       9024mil   9592.464mil  B        270.00 0.22uF         
+C210       CC1608-0603           8830mil       9560mil       8830mil       9560mil       8830mil   9593.464mil  B        270.00 0.22uF         
+C209       CC1608-0603           8780mil       9560mil       8780mil       9560mil       8780mil   9593.464mil  B        270.00 0.22uF         
+C208       CC1608-0603           8692mil       9560mil       8692mil       9560mil       8692mil   9593.464mil  B        270.00 0.22uF         
+C207       CC1608-0603           8365mil       9612mil       8365mil       9612mil       8365mil   9645.464mil  B        270.00 0.22uF         
+C206       CC1608-0603           7726mil       9578mil       7726mil       9578mil       7726mil   9611.464mil  B        270.00 0.22uF         
+C205       CC1608-0603           8504mil       9558mil       8504mil       9558mil       8504mil   9591.464mil  B        270.00 0.22uF         
+C204       CC1608-0603           7938mil       9550mil       7938mil       9550mil       7938mil   9583.464mil  B        270.00 0.22uF         
+CTemp_1    CC1608-0603           8580mil       6960mil       8580mil       6960mil       8580mil   6993.465mil  B        270.00 0.1uF          
+CTemp_2    CC1608-0603          11063mil       8529mil      11063mil       8529mil      11063mil   8562.465mil  B        270.00 0.1uF          
+C203       CC1005-0402           8980mil       9551mil       8980mil       9551mil       8980mil    9576.59mil  B        270.00 47nF           
+C202       CC1005-0402           8836mil       9260mil       8836mil       9260mil    8810.41mil       9260mil  B          0.00 47nF           
+C201       CC1005-0402           8080mil       8800mil       8080mil       8800mil    8054.41mil       8800mil  B          0.00 47nF           
+C200       CC1005-0402           7772mil       9570mil       7772mil       9570mil       7772mil    9595.59mil  B        270.00 47nF           
+C199       CC1005-0402           8758mil       8919mil       8758mil       8919mil    8783.59mil       8919mil  B        180.00 47nF           
+C198       CC1005-0402           7779mil       8078mil       7779mil       8078mil       7779mil    8103.59mil  B        270.00 47nF           
+C197       CC1005-0402           9150mil   9549.999mil       9150mil       9550mil       9150mil   9575.591mil  B        270.00 47nF           
+C196       CC1005-0402       8949.999mil       8998mil       8950mil       8998mil   8975.591mil       8998mil  B        180.00 47nF           
+C195       CC1005-0402       8459.999mil       8960mil       8460mil       8960mil   8485.591mil       8960mil  B        180.00 47nF           
+C194       CC1005-0402       8312.001mil       9037mil       8312mil       9037mil   8286.409mil       9037mil  B          0.00 47nF           
+C193       CC1005-0402       8279.999mil       8920mil       8280mil       8920mil   8305.591mil       8920mil  B        180.00 47nF           
+C192       CC1005-0402           9247mil   7905.001mil       9247mil       7905mil       9247mil   7879.409mil  B         90.00 47nF           
+C191       CC1005-0402           7811mil   9569.999mil       7811mil       9570mil       7811mil   9595.591mil  B        270.00 47nF           
+C190       CC1005-0402           8580mil   8719.999mil       8580mil       8720mil       8580mil   8745.591mil  B        270.00 47nF           
+C189       CC1005-0402           8581mil   8367.999mil       8581mil       8368mil       8581mil   8393.591mil  B        270.00 47nF           
+C188       CC1005-0402       8442.999mil       8642mil       8443mil       8642mil   8468.591mil       8642mil  B        180.00 47nF           
+C187       CC1005-0402       7962.001mil       8799mil       7962mil       8799mil   7936.409mil       8799mil  B          0.00 47nF           
+C186       CC1005-0402           8082mil   8040.001mil       8082mil       8040mil       8082mil   8014.409mil  B         90.00 47nF           
+C185       CC1005-0402           7817mil   8077.999mil       7817mil       8078mil       7817mil   8103.591mil  B        270.00 47nF           
+C183       CC1005-0402           8736mil       9552mil       8736mil       9552mil       8736mil    9526.41mil  B         90.00 47nF           
+C182       CC1005-0402           8226mil       8661mil       8226mil       8661mil       8226mil    8686.59mil  B        270.00 47nF           
+C181       CC1005-0402           7779mil       7961mil       7779mil       7961mil       7779mil    7986.59mil  B        270.00 47nF           
+C180       CC1005-0402           8857mil       8976mil       8857mil       8976mil       8857mil    9001.59mil  B        270.00 47nF           
+C179       CC1005-0402           8982mil       8918mil       8982mil       8918mil    8956.41mil       8918mil  B          0.00 47nF           
+C178       CC1005-0402           8250mil       8578mil       8250mil       8578mil    8275.59mil       8578mil  B        180.00 47nF           
+C175       CC1005-0402           8343mil       8700mil       8343mil       8700mil       8343mil    8725.59mil  B        270.00 47nF           
+C171       CC1005-0402           9332mil       7931mil       9332mil       7931mil    9306.41mil       7931mil  B          0.00 47nF           
+C168       CC1005-0402           8835mil       8525mil       8835mil       8525mil    8809.41mil       8525mil  B          0.00 47nF           
+C167       CC1005-0402           8867mil       8021mil       8867mil       8021mil       8867mil    8046.59mil  B        270.00 47nF           
+C166       CC1005-0402           9332mil       7971mil       9332mil       7971mil    9306.41mil       7971mil  B          0.00 47nF           
+C165       CC1005-0402           9331mil       7892mil       9331mil       7892mil    9305.41mil       7892mil  B          0.00 47nF           
+C164       CC1005-0402           8921mil       8647mil       8921mil       8647mil       8921mil    8621.41mil  B         90.00 47nF           
+C163       CC1005-0402           9071mil       8684mil       9071mil       8684mil    9045.41mil       8684mil  B          0.00 47nF           
+C162       CC1005-0402           8855mil       8785mil       8855mil       8785mil       8855mil    8759.41mil  B         90.00 47nF           
+C161       CC1005-0402           8820mil       8682mil       8820mil       8682mil    8794.41mil       8682mil  B          0.00 47nF           
+C160       CC1005-0402           7817mil       7961mil       7817mil       7961mil       7817mil    7986.59mil  B        270.00 47nF           
+C159       CC1005-0402           8325mil       8403mil       8325mil       8403mil    8299.41mil       8403mil  B          0.00 47nF           
+C158       CC1005-0402           8680mil       8880mil       8680mil       8880mil    8654.41mil       8880mil  B          0.00 47nF           
+RT16       0402_Array_2HV   11672.103mil   6549.796mil      11741mil   6520.268mil  11745.922mil   6520.268mil  B         90.00 0 EXB-2HVR000V 
+C1         CC1608-0603          11138mil       7150mil      11138mil       7150mil  11104.536mil       7150mil  B        360.00 0.1uF          
+C2         CC1608-0603      11493.937mil   6962.882mil  11493.937mil   6962.882mil  11493.937mil   6996.346mil  B        270.00 0.1uF          
+C3         CC1608-0603      12083.937mil   7022.882mil  12083.937mil   7022.882mil  12083.937mil   7056.346mil  B        270.00 0.1uF          
+C16_1      CC1608-0603           6042mil       7276mil       6042mil       7276mil   6008.535mil       7276mil  B        360.00 1uF            
+C16_2      CC1608-0603       7198.173mil   7234.929mil   7198.173mil   7234.929mil   7164.709mil   7234.929mil  B        360.00 1uF            
+C16_3      CC1608-0603       9907.827mil   7226.929mil   9907.827mil   7226.929mil   9874.362mil   7226.929mil  B        360.00 1uF            
+C21_1      CC1608-0603           6139mil       7235mil       6139mil       7235mil       6139mil   7268.465mil  B        270.00 2.2nF          
+C21_2      CC1608-0603       7295.173mil   7193.929mil   7295.173mil   7193.929mil   7295.173mil   7227.394mil  B        270.00 2.2nF          
+C21_3      CC1608-0603      10004.827mil   7185.929mil  10004.827mil   7185.929mil  10004.827mil   7219.394mil  B        270.00 2.2nF          
+C22_1      CC1608-0603           6214mil       7112mil       6214mil       7112mil       6214mil   7145.465mil  B        270.00 47p            
+C22_2      CC1608-0603       7370.173mil   7070.929mil   7370.173mil   7070.929mil   7370.173mil   7104.394mil  B        270.00 47p            
+C22_3      CC1608-0603      10079.827mil   7062.929mil  10079.827mil   7062.929mil  10079.827mil   7096.394mil  B        270.00 47p            
+R41_1      CR1608-0603           6264mil       7026mil       6264mil       7026mil   6230.535mil       7026mil  B          0.00 2.49K          
+R41_2      CR1608-0603       7420.173mil   6984.929mil   7420.173mil   6984.929mil   7386.709mil   6984.929mil  B        360.00 2.49K          
+R41_3      CR1608-0603      10129.827mil   6976.929mil  10129.827mil   6976.929mil  10096.362mil   6976.929mil  B        360.00 2.49K          
+R42_1      CR1608-0603           6108mil       6962mil       6108mil       6962mil       6108mil   6995.465mil  B        270.00 100            
+R42_2      CR1608-0603       7264.173mil   6920.929mil   7264.173mil   6920.929mil   7264.173mil   6954.394mil  B        270.00 100            
+R42_3      CR1608-0603       9973.827mil   6912.929mil   9973.827mil   6912.929mil   9973.827mil   6946.394mil  B        270.00 100            
+R43_1      CR1608-0603           6264mil       6973mil       6264mil       6973mil   6297.465mil       6973mil  B        180.00 Use 681 for _1, 1.18K for _2, 4.99K for _3
+R43_2      CR1608-0603       7420.173mil   6931.929mil   7420.173mil   6931.929mil   7453.638mil   6931.929mil  B        180.00 Use 681 for _1, 1.18K for _2, 4.99K for _3
+R43_3      CR1608-0603      10129.827mil   6923.929mil  10129.827mil   6923.929mil  10163.291mil   6923.929mil  B        180.00 Use 681 for _1, 1.18K for _2, 4.99K for _3
+R_ITH1_1   CR1608-0603           6139mil       7112mil       6139mil       7112mil       6139mil   7145.465mil  B        270.00 3.32K          
+R_ITH1_2   CR1608-0603       7295.173mil   7070.929mil   7295.173mil   7070.929mil   7295.173mil   7104.394mil  B        270.00 3.32K          
+R_ITH1_3   CR1608-0603      10004.827mil   7062.929mil  10004.827mil   7062.929mil  10004.827mil   7096.394mil  B        270.00 3.32K          
+C35        CC1608-0603           9858mil       8553mil       9858mil       8553mil       9858mil   8519.536mil  B         90.00 0.1uF          
+C34        CC1608-0603          10016mil       8390mil      10016mil       8390mil      10016mil   8423.464mil  B        270.00 0.1uF          
+C33        CC1608-0603           9824mil       8344mil       9824mil       8344mil       9824mil   8377.464mil  B        270.00 0.1uF          
+C32        CC1608-0603           9646mil       8350mil       9646mil       8350mil       9646mil   8383.464mil  B        270.00 0.1uF          
+C31        CC1608-0603          10055mil       9288mil      10055mil       9288mil      10055mil   9254.536mil  B         90.00 0.1uF          
+C30        CC1608-0603          10055mil       8551mil      10055mil       8551mil      10055mil   8517.536mil  B         90.00 0.1uF          
+RT9        0402_Array_2HV   12769.528mil   8828.897mil      12740mil       8760mil      12740mil   8755.078mil  B          0.00 10K EXB-2HV103JV
+CRT1_3     CC1608-0603           9664mil       8812mil       9664mil       8812mil   9630.536mil       8812mil  B          0.00 0.1uF          
+CRT1_2     CC1608-0603          10010mil       9550mil      10010mil       9550mil  10043.464mil       9550mil  B        180.00 0.1uF          
+CRT1_1     CC1608-0603          10364mil       7993mil      10364mil       7993mil  10330.536mil       7993mil  B          0.00 0.1uF          
+C177       CC3216-1206           7795mil       8856mil       7795mil       8856mil   7739.882mil       8856mil  B        360.00 2.2uF          
+C176       CC3216-1206           8782mil       7915mil       8782mil       7915mil   8837.118mil       7915mil  B        180.00 2.2uF          
+C174       CC3216-1206           8897mil       9578mil       8897mil       9578mil       8897mil   9633.118mil  B        270.00 2.2uF          
+C173       CC3216-1206           7786mil       9466mil       7786mil       9466mil   7730.882mil       9466mil  B        360.00 0.68uF         
+C172       CC3216-1206           9447mil       8094mil       9447mil       8094mil       9447mil   8149.118mil  B        270.00 0.68uF         
+C170       CC3216-1206           8500mil       8020mil       8500mil       8020mil       8500mil   7964.882mil  B         90.00 0.68uF         
+C169       CC3216-1206           8437mil       9765mil       8437mil       9765mil       8437mil   9820.118mil  B        270.00 0.68uF         
+C157       CC1608-0603           8866mil       9390mil       8866mil       9390mil   8899.464mil       9390mil  B        180.00 0.22uF         
+C156       CC1608-0603           8108mil       9319mil       8108mil       9319mil       8108mil   9352.464mil  B        270.00 0.22uF         
+C155       CC1608-0603           8108mil       9232mil       8108mil       9232mil   8074.536mil       9232mil  B        360.00 0.22uF         
+C154       CC1608-0603           9328mil       8017mil       9328mil       8017mil   9294.536mil       8017mil  B        360.00 0.22uF         
+C153       CC1608-0603           9328mil       8068mil       9328mil       8068mil   9294.536mil       8068mil  B        360.00 0.22uF         
+C152       CC1608-0603           9020mil       8042mil       9020mil       8042mil       9020mil   8008.536mil  B         90.00 0.22uF         
+C151       CC1608-0603           8580mil       9000mil       8580mil       9000mil       8580mil   9033.464mil  B        270.00 0.22uF         
+C150       CC1608-0603           7617mil       9003mil       7617mil       9003mil       7617mil   8969.536mil  B         90.00 0.22uF         
+C149       CC1608-0603           8680mil       8800mil       8680mil       8800mil   8713.464mil       8800mil  B        180.00 0.22uF         
+C147       CC3216-1206           7795mil       8478mil       7795mil       8478mil   7739.882mil       8478mil  B        360.00 2.2uF          
+C146       CC3216-1206           7741mil       9141mil       7741mil       9141mil   7685.882mil       9141mil  B        360.00 2.2uF          
+C145       CC3216-1206           9380mil       8554mil       9380mil       8554mil   9435.118mil       8554mil  B        180.00 2.2uF          
+C144       CC3216-1206           9352mil       9274mil       9352mil       9274mil   9407.118mil       9274mil  B        180.00 2.2uF          
+C143       CC3216-1206           8620mil       8019mil       8620mil       8019mil       8620mil   7963.882mil  B         90.00 2.2uF          
+C142       CC3216-1206           8605mil       9617mil       8605mil       9617mil       8605mil   9672.118mil  B        270.00 2.2uF          
+C141       CC3216-1206           8792mil       9806mil       8792mil       9806mil       8792mil   9861.118mil  B        270.00 2.2uF          
+C140       CC3216-1206           8213mil       9582mil       8213mil       9582mil       8213mil   9637.118mil  B        270.00 2.2uF          
+C139       CC3216-1206           7795mil       8560mil       7795mil       8560mil   7739.882mil       8560mil  B        360.00 0.68uF         
+C138       CC3216-1206           7795mil       8641mil       7795mil       8641mil   7739.882mil       8641mil  B        360.00 0.68uF         
+C137       CC3216-1206           7795mil       8723mil       7795mil       8723mil   7739.882mil       8723mil  B        360.00 0.68uF         
+C136       CC3216-1206           7742mil       8974mil       7742mil       8974mil   7686.882mil       8974mil  B        360.00 0.68uF         
+C135       CC3216-1206           7742mil       9059mil       7742mil       9059mil   7686.882mil       9059mil  B        360.00 0.68uF         
+C134       CC3216-1206           9380mil       8638mil       9380mil       8638mil   9435.118mil       8638mil  B        180.00 0.68uF         
+C133       CC3216-1206           9380mil       8720mil       9380mil       8720mil   9435.118mil       8720mil  B        180.00 0.68uF         
+C132       CC3216-1206           9380mil       8877mil       9380mil       8877mil   9435.118mil       8877mil  B        180.00 0.68uF         
+C131       CC3216-1206           9380mil       8960mil       9380mil       8960mil   9435.118mil       8960mil  B        180.00 0.68uF         
+C130       CC3216-1206           9380mil       9041mil       9380mil       9041mil   9435.118mil       9041mil  B        180.00 0.68uF         
+C129       CC1005-0402       8875.276mil       8210mil   8875.276mil       8210mil   8900.866mil       8210mil  B        180.00 47nF           
+C128       CC1005-0402           8839mil       8288mil       8839mil       8288mil    8864.59mil       8288mil  B        180.00 47nF           
+C127       CC1005-0402           9106mil       8210mil       9106mil       8210mil    9080.41mil       8210mil  B          0.00 47nF           
+C126       CC1005-0402           8872mil       8367mil       8872mil       8367mil    8846.41mil       8367mil  B          0.00 47nF           
+C125       CC1005-0402           8794mil       8445mil       8794mil       8445mil    8819.59mil       8445mil  B        180.00 47nF           
+C124       CC1005-0402           8805mil       8564mil       8805mil       8564mil    8830.59mil       8564mil  B        180.00 47nF           
+C123       CC1005-0402           8737mil       9050mil       8737mil       9050mil       8737mil    9075.59mil  B        270.00 47nF           
+C122       CC1005-0402           9155mil       9351mil       9155mil       9351mil    9180.59mil       9351mil  B        180.00 47nF           
+C121       CC1005-0402           8736mil       8623mil       8736mil       8623mil       8736mil    8597.41mil  B         90.00 47nF           
+C120       CC1005-0402           8738mil   9203.999mil       8738mil       9204mil       8738mil   9229.591mil  B        270.00 47nF           
+C119       CC1005-0402       8872.001mil       9154mil       8872mil       9154mil   8846.409mil       9154mil  B          0.00 47nF           
+C118       CC1005-0402       8992.999mil       9311mil       8993mil       9311mil   9018.591mil       9311mil  B        180.00 47nF           
+C117       CC1005-0402           8581mil   8605.999mil       8581mil       8606mil       8581mil   8631.591mil  B        270.00 47nF           
+C116       CC1005-0402           8029mil   9095.001mil       8029mil       9095mil       8029mil   9069.409mil  B         90.00 47nF           
+C115       CC1005-0402       7925.001mil       8957mil       7925mil       8957mil   7899.409mil       8957mil  B          0.00 47nF           
+C114       CC1005-0402       8211.001mil       8800mil       8211mil       8800mil   8185.409mil       8800mil  B          0.00 47nF           
+C113       CC1005-0402       7923.999mil       8917mil       7924mil       8917mil   7949.591mil       8917mil  B        180.00 47nF           
+C112       CC1005-0402       8339.999mil       8800mil       8340mil       8800mil   8365.591mil       8800mil  B        180.00 47nF           
+C111       CC1608-0603           9357mil       8320mil       9357mil       8320mil   9390.464mil       8320mil  B        180.00 0.22uF         
+C110       CC1608-0603           9358mil       8487mil       9358mil       8487mil   9391.464mil       8487mil  B        180.00 0.22uF         
+C109       CC1608-0603           8727mil       8046mil       8727mil       8046mil       8727mil   8012.536mil  B         90.00 0.22uF         
+C108       CC1608-0603           8130mil       8044mil       8130mil       8044mil       8130mil   8010.536mil  B         90.00 0.22uF         
+C107       CC1608-0603           9358mil       8437mil       9358mil       8437mil   9391.464mil       8437mil  B        180.00 0.22uF         
+C106       CC1608-0603           7816mil       8362mil       7816mil       8362mil   7782.536mil       8362mil  B        360.00 0.22uF         
+C105       CC1608-0603           9357mil       9108mil       9357mil       9108mil   9390.464mil       9108mil  B        180.00 0.22uF         
+C104       CC1608-0603           9330mil       9206mil       9330mil       9206mil   9363.464mil       9206mil  B        180.00 0.22uF         
+C103       CC1608-0603           8538mil       9696mil       8538mil       9696mil       8538mil   9729.464mil  B        270.00 0.22uF         
+C102       CC1608-0603           7816mil       8790mil       7816mil       8790mil   7782.536mil       8790mil  B        360.00 0.22uF         
+C101       CC1608-0603           7763mil       9396mil       7763mil       9396mil   7729.535mil       9396mil  B        360.00 0.22uF         
+C100       CC1608-0603           8102mil       9547mil       8102mil       9547mil       8102mil   9580.465mil  B        270.00 0.22uF         
+C99        CC1608-0603           9333mil       8211mil       9333mil       8211mil   9366.465mil       8211mil  B        180.00 0.22uF         
+C98        CC1608-0603           9333mil       8262mil       9333mil       8262mil   9366.465mil       8262mil  B        180.00 0.22uF         
+C97        CC1608-0603           9359mil       8371mil       9359mil       8371mil   9392.465mil       8371mil  B        180.00 0.22uF         
+C96        CC1608-0603           9319mil       9348mil       9319mil       9348mil   9352.465mil       9348mil  B        180.00 0.22uF         
+C95        CC1608-0603           9319mil       9398mil       9319mil       9398mil   9352.465mil       9398mil  B        180.00 0.22uF         
+C94        CC1608-0603           9320mil       9449mil       9320mil       9449mil   9353.465mil       9449mil  B        180.00 0.22uF         
+C93        CC1608-0603           7827mil       8184mil       7827mil       8184mil   7793.535mil       8184mil  B        360.00 0.22uF         
+C92        CC1608-0603           7827mil       8235mil       7827mil       8235mil   7793.535mil       8235mil  B        360.00 0.22uF         
+C91        CC1608-0603           7816mil       8412mil       7816mil       8412mil   7782.535mil       8412mil  B        360.00 0.22uF         
+C90        CC1608-0603           7763mil       9208mil       7763mil       9208mil   7729.535mil       9208mil  B        360.00 0.22uF         
+C89        CC1608-0603           7763mil       9296mil       7763mil       9296mil   7729.536mil       9296mil  B        360.00 0.22uF         
+C88        CC1608-0603           7763mil       9346mil       7763mil       9346mil   7729.536mil       9346mil  B        360.00 0.22uF         
+C87        CC1005-0402           9190mil       8682mil       9190mil       8682mil    9164.41mil       8682mil  B          0.00 47nF           
+C86        CC1005-0402           8771mil       8054mil       8771mil       8054mil       8771mil    8028.41mil  B         90.00 47nF           
+C85        CC1005-0402           9332mil       8126mil       9332mil       8126mil    9357.59mil       8126mil  B        180.00 47nF           
+C84        CC1005-0402           9332mil       8165mil       9332mil       8165mil    9357.59mil       8165mil  B        180.00 47nF           
+C83        CC1005-0402           9248mil   8157.001mil       9248mil       8157mil       9248mil   8131.409mil  B         90.00 47nF           
+C82        CC1005-0402           9170mil   8805.001mil       9170mil       8805mil       9170mil   8779.409mil  B         90.00 47nF           
+C81        CC1005-0402       8954.999mil       8800mil       8955mil       8800mil   8980.591mil       8800mil  B        180.00 47nF           
+C80        CC1005-0402       9112.999mil       8722mil       9113mil       8722mil   9138.591mil       8722mil  B        180.00 47nF           
+C79        CC1005-0402       9028.999mil       8643mil       9029mil       8643mil   9054.591mil       8643mil  B        180.00 47nF           
+C78        CC1005-0402           8580mil   8500.001mil       8580mil       8500mil       8580mil   8474.409mil  B         90.00 47nF           
+C77        CC1005-0402           8580mil   8254.999mil       8580mil       8255mil       8580mil   8280.591mil  B        270.00 47nF           
+C76        CC1005-0402           7990mil   8622.999mil       7990mil       8623mil       7990mil   8648.591mil  B        270.00 47nF           
+C75        CC1005-0402       8123.999mil       8485mil       8124mil       8485mil   8149.591mil       8485mil  B        180.00 47nF           
+C74        CC1005-0402           8175mil   8052.001mil       8175mil       8052mil       8175mil   8026.409mil  B         90.00 47nF           
+C73        CC1005-0402       7889.999mil       8139mil       7890mil       8139mil   7915.591mil       8139mil  B        180.00 47nF           
+C72        CC1005-0402           8423mil   8426.001mil       8423mil       8426mil       8423mil   8400.409mil  B         90.00 47nF           
+C71        CC1005-0402           7950mil   8570.999mil       7950mil       8571mil       7950mil   8596.591mil  B        270.00 47nF           
+C70        CC1005-0402           8263mil   8493.999mil       8263mil       8494mil       8263mil   8519.591mil  B        270.00 47nF           
+C69        CC1005-0402           7950mil       8702mil       7950mil       8702mil       7950mil    8676.41mil  B         90.00 47nF           
+C68        CC1005-0402           8043mil       8445mil       8043mil       8445mil    8068.59mil       8445mil  B        180.00 47nF           
+C67        CC1005-0402           8181mil       8389mil       8181mil       8389mil       8181mil    8363.41mil  B         90.00 47nF           
+C66        CC1005-0402       9085.001mil       8800mil       9085mil       8800mil   9059.409mil       8800mil  B          0.00 47nF           
+C65        CC1005-0402           9268mil   8979.999mil       9268mil       8980mil       9268mil   9005.591mil  B        270.00 47nF           
+C64        CC1005-0402           9103mil       9074mil       9103mil       9074mil    9077.41mil       9074mil  B          0.00 47nF           
+C63        CC1005-0402           9119mil       9154mil       9119mil       9154mil    9144.59mil       9154mil  B        180.00 47nF           
+C62        CC1005-0402           8580mil       9460mil       8580mil       9460mil       8580mil    9485.59mil  B        270.00 47nF           
+C61        CC1005-0402           9183mil       8918mil       9183mil       8918mil    9208.59mil       8918mil  B        180.00 47nF           
+C60        CC1005-0402           8949mil       8959mil       8949mil       8959mil    8974.59mil       8959mil  B        180.00 47nF           
+C59        CC1005-0402           8871mil       9075mil       8871mil       9075mil    8845.41mil       9075mil  B          0.00 47nF           
+C58        CC1005-0402           9013mil       9099mil       9013mil       9099mil       9013mil    9073.41mil  B         90.00 47nF           
+C57        CC1005-0402           8848mil       8879mil       8848mil       8879mil    8873.59mil       8879mil  B        180.00 47nF           
+C56        CC1005-0402           8780mil       8800mil       8780mil       8800mil       8780mil    8825.59mil  B        270.00 47nF           
+C55        CC1005-0402           8482mil       9115mil       8482mil       9115mil    8456.41mil       9115mil  B          0.00 47nF           
+C54        CC1005-0402           8305mil       9135mil       8305mil       9135mil       8305mil    9109.41mil  B         90.00 47nF           
+C53        CC1005-0402           7774mil       9252mil       7774mil       9252mil    7799.59mil       9252mil  B        180.00 47nF           
+C52        CC1005-0402           8150mil       9539mil       8150mil       9539mil       8150mil    9513.41mil  B         90.00 47nF           
+C51        CC1005-0402           8107mil       9135mil       8107mil       9135mil       8107mil    9160.59mil  B        270.00 47nF           
+C50        CC1005-0402           8580mil       9320mil       8580mil       9320mil       8580mil    9345.59mil  B        270.00 47nF           
+C49        CC1005-0402           8460mil       8800mil       8460mil       8800mil    8485.59mil       8800mil  B        180.00 47nF           
+C48        CC1005-0402           8580mil       9140mil       8580mil       9140mil       8580mil    9114.41mil  B         90.00 47nF           
+C47        CC1005-0402           9131mil       9238mil       9131mil       9238mil       9131mil    9263.59mil  B        270.00 47nF           
+C46        CC1005-0402           8281mil       8997mil       8281mil       8997mil    8255.41mil       8997mil  B          0.00 47nF           
+C268       CC1005-0402          11567mil       9045mil      11567mil       9045mil  11592.591mil       9045mil  B        180.00 0.01uF         
+C267       CC1608-0603          11258mil       9317mil      11258mil       9317mil      11258mil   9283.535mil  B         90.00 0.1uF          
+C266       CC1005-0402          11110mil       9416mil      11110mil       9416mil      11110mil   9441.591mil  B        270.00 0.01uF         
+C265       CC1005-0402          11484mil       9241mil      11484mil       9241mil      11484mil   9215.409mil  B         90.00 1nF            
+C257       CC1608-0603          11673mil       9093mil      11673mil       9093mil  11706.465mil       9093mil  B        180.00 0.1uF          
+C256       CC1608-0603          10884mil       9374mil      10884mil       9374mil  10850.535mil       9374mil  B        360.00 0.1uF          
+C255       CC1005-0402          11681mil       9138mil      11681mil       9138mil  11706.591mil       9138mil  B        180.00 0.01uF         
+C254       CC1005-0402          11681mil       9047mil      11681mil       9047mil  11706.591mil       9047mil  B        180.00 1nF            
+C252       CC1608-0603          11361mil       9451mil      11361mil       9451mil      11361mil   9484.465mil  B        270.00 0.1uF          
+C251       CC1005-0402          11602mil       9346mil      11602mil       9346mil  11627.591mil       9346mil  B        180.00 0.01uF         
+C250       CC1005-0402          11373mil       9008mil      11373mil       9008mil      11373mil   8982.409mil  B         90.00 0.01uF         
+C249       CC1005-0402          11414mil       9008mil      11414mil       9008mil      11414mil   8982.409mil  B         90.00 0.01uF         
+C248       CC1005-0402          11300mil       9442mil      11300mil       9442mil      11300mil   9467.591mil  B        270.00 1nF            
+C247       CC1005-0402          11511mil       9407mil      11511mil       9407mil      11511mil   9432.591mil  B        270.00 1nF            
+C245       CC1005-0402          11100mil       9000mil      11100mil       9000mil  11074.409mil       9000mil  B          0.00 0.01uF         
+C244       CC1005-0402          11213mil       9424mil      11213mil       9424mil      11213mil   9449.591mil  B        270.00 1nF            
+C242       CC1608-0603          11159mil       9424mil      11159mil       9424mil      11159mil   9457.465mil  B        270.00 0.1uF          
+C241       CC1608-0603          11431mil       9233mil      11431mil       9233mil      11431mil   9199.535mil  B         90.00 0.1uF          
+C240       CC1005-0402          11134mil       9345mil      11134mil       9345mil  11108.409mil       9345mil  B          0.00 0.01uF         
+C239       CC1005-0402          11613mil       9308mil      11613mil       9308mil  11638.591mil       9308mil  B        180.00 1nF            
+C238       CC1608-0603          11180mil       8940mil      11180mil       8940mil      11180mil   8906.535mil  B         90.00 0.1uF          
+C237       CC1005-0402          11306mil       9005mil      11306mil       9005mil      11306mil   8979.409mil  B         90.00 0.01uF         
+C236       CC1005-0402          11567mil       8999mil      11567mil       8999mil  11592.591mil       8999mil  B        180.00 0.01uF         
+C42        CC1608-0603           9759mil      10040mil       9759mil      10040mil   9725.536mil      10040mil  B        360.00 0.1uF          
+C277       CC1608-0603           6260mil       9168mil       6260mil       9168mil   6226.536mil       9168mil  B        360.00 0.1uF          
+C278       CC1608-0603           6834mil       9132mil       6834mil       9132mil       6834mil   9098.536mil  B         90.00 0.1uF          
+C279       CC1608-0603           6100mil       8420mil       6100mil       8420mil       6100mil   8453.464mil  B        270.00 0.1uF          
+C280       CC1608-0603           6834mil       8589mil       6834mil       8589mil       6834mil   8622.464mil  B        270.00 0.1uF          
+C281       CC1608-0603           6801mil       8870mil       6801mil       8870mil       6801mil   8836.536mil  B         90.00 0.1uF          
+C282       CC1608-0603           6491mil       9130mil       6491mil       9130mil       6491mil   9096.536mil  B         90.00 0.1uF          
+C283       CC1608-0603           6192mil       8585mil       6192mil       8585mil       6192mil   8618.464mil  B        270.00 0.1uF          
+C285       CC1608-0603           6235mil       8873mil       6235mil       8873mil   6268.464mil       8873mil  B        180.00 0.1uF          
+C286       CC1608-0603           6648mil       8589mil       6648mil       8589mil       6648mil   8622.464mil  B        270.00 0.1uF          
+C287       CC1608-0603           6648mil       9131mil       6648mil       9131mil       6648mil   9097.536mil  B         90.00 0.1uF          
+R84        CR1608-0603           6202mil       8766mil       6202mil       8766mil       6202mil   8732.536mil  B         90.00 4.99K          
+R85        CR1608-0603           6022mil   8996.999mil       6022mil       8997mil       6022mil   9030.465mil  B        270.00 1K             
+R86        CR1608-0603           6020mil   9140.002mil       6020mil   9140.001mil       6020mil   9106.537mil  B         90.00 1K             
+R89        CR1608-0603       6015.999mil       8737mil       6016mil       8737mil   6049.465mil       8737mil  B        180.00 1K             
+R90        CR1608-0603       6015.999mil       8837mil       6016mil       8837mil   6049.465mil       8837mil  B        180.00 1K             
+
