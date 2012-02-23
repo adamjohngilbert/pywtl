@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MotorCtrPCBArray.PcbDoc   24/01/2011  12:00:12 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MotorCtrPCBArray.TXT
+EIA File   : MotorCtrPCBArray.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          42               17.54 Inch (445.59 mm)
+T2        31.5mil (0.8001mm)       Round          33               8.51 Inch (216.22 mm)
+T3        35mil (0.889mm)          Round          54               16.70 Inch (424.16 mm)
+T4        125mil (3.175mm)         Round          12               12.98 Inch (329.69 mm)
+---------------------------------------------------------------------------
+Totals                                            141              55.73 Inch (1415.66 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
