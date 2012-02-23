@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PlanerInductor.PcbDoc   11/07/2011  3:33:49 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PlanerInductor.TXT
+EIA File   : PlanerInductor.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        8mil (0.2032mm)          Round          66               19.51 Inch (495.64 mm)
+T2        35mil (0.889mm)          Round          70               20.78 Inch (527.92 mm)
+---------------------------------------------------------------------------
+Totals                                            136              40.30 Inch (1023.56 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

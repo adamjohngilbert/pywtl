@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PlanerInductor.PrjPcb]
+   Generated File[PlanerInductor.TXT]
+   Generated File[PlanerInductor.DRL]
+   Generated File[PlanerInductor.LDP]
+   Generated File[PlanerInductor.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:33:49 PM On 11/07/2011
