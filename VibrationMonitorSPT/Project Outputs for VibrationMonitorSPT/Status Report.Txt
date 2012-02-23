@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [VibrationMonitorSPT.PrjPCB]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 11:05:03 AM On 04/01/2011
