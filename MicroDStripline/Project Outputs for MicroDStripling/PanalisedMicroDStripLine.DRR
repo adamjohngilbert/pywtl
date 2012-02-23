@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PanalisedMicroDStripLine.PcbDoc   12/07/2010  9:47:48 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PanalisedMicroDStripLine.TXT
+EIA File   : PanalisedMicroDStripLine.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        25mil (0.635mm)          Round          168              24.45 Inch (621.03 mm)
+T2        96mil (2.4384mm)         Round          16               10.20 Inch (259.18 mm)
+---------------------------------------------------------------------------
+Totals                                            184              34.65 Inch (880.21 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
