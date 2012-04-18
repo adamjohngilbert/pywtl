@@ -29,24 +29,9 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=Project Outputs for MiniSquidCtrl\SQUIDCtrl_Rev0.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document2]
 DocumentPath=MiniSquidCtrl.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -62,8 +47,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document2]
+DocumentPath=MiniSquidCtrl.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [Document3]
-DocumentPath=Project Outputs for MiniSquidCtrl\MiniSquidCtrl.IntLib
+DocumentPath=MiniSquidCtrl.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document4]
+DocumentPath=SQUIDCtrl_Rev0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -88,7 +105,7 @@ GenerateBOM=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -219,7 +236,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -240,7 +257,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -344,11 +361,17 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType18=PCBLIB Print
+OutputName18=PCBLIB Prints
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -370,7 +393,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -426,7 +449,7 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -463,7 +486,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -643,7 +666,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -672,12 +695,12 @@ OutputDefault4=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL 5
+TargetPrinter=HP Officejet Pro 8500 A909g Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ExportSTEP
 OutputName1=Export STEP
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 
 [Modification Levels]
@@ -937,8 +960,38 @@ NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=MiniSquidCtrl.IntLib
+ComponentDesignItemID0=2N2222AUB
+ComponentSymbolReference0=2N2222AUB
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=MiniSquidCtrl.IntLib
+ComponentDesignItemID1=AD8138ARZ
+ComponentSymbolReference1=AD8138ARZ
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=MiniSquidCtrl.IntLib
+ComponentDesignItemID2=DS90C031TM/NOPB
+ComponentSymbolReference2=DS90C031TM/NOPB
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=MiniSquidCtrl.IntLib
+ComponentDesignItemID3=LT6200CS8#PBF
+ComponentSymbolReference3=LT6200CS8#PBF
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=MiniSquidCtrl.SchLib
+ComponentDesignItemID4=LT6200CS8#PBF
+ComponentSymbolReference4=LT6200CS8#PBF
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -951,6 +1004,93 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=-3db Bandwidth
+ParameterUpdate0=1
+ParameterName1=Amplifier Type
+ParameterUpdate1=1
+ParameterName2=Applications
+ParameterUpdate2=1
+ParameterName3=Category
+ParameterUpdate3=1
+ParameterName4=Comment
+ParameterUpdate4=1
+ParameterName5=Component Kind
+ParameterUpdate5=1
+ParameterName6=ComponentLink1Description
+ParameterUpdate6=1
+ParameterName7=ComponentLink1URL
+ParameterUpdate7=1
+ParameterName8=Current - Input Bias
+ParameterUpdate8=1
+ParameterName9=Current - Output / Channel
+ParameterUpdate9=1
+ParameterName10=Current - Supply
+ParameterUpdate10=1
+ParameterName11=Description
+ParameterUpdate11=1
+ParameterName12=EU_ROHS_PROD_EXEMPTION_BY_SUPP
+ParameterUpdate12=1
+ParameterName13=Gain Bandwidth Product
+ParameterUpdate13=1
+ParameterName14=Lead Time
+ParameterUpdate14=1
+ParameterName15=Library Reference
+ParameterUpdate15=1
+ParameterName16=Manufacturer
+ParameterUpdate16=1
+ParameterName17=Manufacturer Part Number
+ParameterUpdate17=1
+ParameterName18=Mounting Type
+ParameterUpdate18=1
+ParameterName19=Number of Circuits
+ParameterUpdate19=1
+ParameterName20=Number of Drivers/Receivers
+ParameterUpdate20=1
+ParameterName21=Operating Temperature
+ParameterUpdate21=1
+ParameterName22=Output Type
+ParameterUpdate22=1
+ParameterName23=Package / Case
+ParameterUpdate23=1
+ParameterName24=Package Quantity
+ParameterUpdate24=1
+ParameterName25=Packaging
+ParameterUpdate25=1
+ParameterName26=Pricing 1
+ParameterUpdate26=1
+ParameterName27=Protocol
+ParameterUpdate27=1
+ParameterName28=RoHS
+ParameterUpdate28=1
+ParameterName29=Slew Rate
+ParameterUpdate29=1
+ParameterName30=Stock 1
+ParameterUpdate30=1
+ParameterName31=Supplier 1
+ParameterUpdate31=1
+ParameterName32=Supplier Device Package
+ParameterUpdate32=1
+ParameterName33=Termination Finish
+ParameterUpdate33=1
+ParameterName34=Type
+ParameterUpdate34=1
+ParameterName35=Voltage - Input Offset
+ParameterUpdate35=1
+ParameterName36=Voltage - Supply
+ParameterUpdate36=1
+ParameterName37=Voltage - Supply, Single/Dual (±)
+ParameterUpdate37=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=2N2222AUB
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=SO16
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=SO8
+ModelUpdate2=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -963,4 +1103,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
