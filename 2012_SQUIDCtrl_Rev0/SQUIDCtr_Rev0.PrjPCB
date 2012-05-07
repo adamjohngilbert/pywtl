@@ -190,6 +190,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Parameter1]
+Name=ProjectTitle
+Value=DAN Squid Controller
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
