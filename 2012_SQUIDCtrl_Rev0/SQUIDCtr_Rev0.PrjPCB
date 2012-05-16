@@ -160,13 +160,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=SQUIDCtr_Rev0.PcbDoc
+DocumentPath=SquidLetterTemp.SchDot
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -176,13 +176,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=SquidLetterTemp.SchDot
+DocumentPath=SQUIDCtr_Rev0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=5
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -228,6 +228,10 @@ DocumentPath=SQUIDCtr_Rev0.PcbDoc.htm
 DItemRevisionGUID=
 
 [Parameter1]
+Name=ModelNumber
+Value=MGSQ1
+
+[Parameter2]
 Name=ProjectTitle
 Value=DAN Squid Controller
 
