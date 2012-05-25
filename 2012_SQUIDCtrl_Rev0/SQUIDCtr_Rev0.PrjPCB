@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for SQUIDCtr_Rev0
+OutputPath=
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -26,7 +26,7 @@ DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=1
-PowerPortNamesTakePriority=0
+PowerPortNamesTakePriority=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -244,12 +244,12 @@ DocumentPath=SQUIDCtr_Rev0.PcbDoc.htm
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ModelNumber
-Value=MGSQ1
-
-[Parameter2]
 Name=ProjectTitle
 Value=DAN Squid Controller
+
+[Parameter2]
+Name=ModelNumber
+Value=MGSQ1
 
 [PCBConfiguration1]
 ReleaseItemId=
