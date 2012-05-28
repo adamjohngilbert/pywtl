@@ -249,7 +249,7 @@ Value=DAN Squid Controller
 
 [Parameter2]
 Name=ModelNumber
-Value=MGSQ1
+Value=MGDSQ4
 
 [PCBConfiguration1]
 ReleaseItemId=
