@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
-OutputPath=
+OutputPath=Project Outputs for SQUIDCtr_Rev0
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -209,6 +209,22 @@ GenerateClassCluster=0
 
 [Document12]
 DocumentPath=SQUID_Channel_DACS.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document13]
+DocumentPath=SQUIDCtr_Rev0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
