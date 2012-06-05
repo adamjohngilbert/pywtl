@@ -2,7 +2,7 @@
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
-OutputPath=Project Outputs for SQUIDCtr_Rev0
+OutputPath=
 LogFolderPath=
 ReleasesFolder=
 ReleaseVaultGUID=
@@ -240,16 +240,20 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for SQUIDCtr_Rev0\Design Rule Check - SQUIDCtr_Rev0.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=SQUIDCtr_Rev0.PcbDoc.htm
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=DAN Squid Controller
-
-[Parameter2]
 Name=ModelNumber
 Value=MGDSQ4
+
+[Parameter2]
+Name=ProjectTitle
+Value=DAN Squid Controller
 
 [PCBConfiguration1]
 ReleaseItemId=
