@@ -415,17 +415,21 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MGMEZZ04TEST\Design Rule Check - MGMEZZ02.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Revision
-Value=Rev0
+Name=ModelNumber
+Value=MGMEZZ02
 
 [Parameter2]
 Name=ProjectTitle
 Value=Dan DfMux Mezz
 
 [Parameter3]
-Name=ModelNumber
-Value=MGMEZZ02
+Name=Revision
+Value=Rev0
 
 [PCBConfiguration1]
 ReleaseItemId=
