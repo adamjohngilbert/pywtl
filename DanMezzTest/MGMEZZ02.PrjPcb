@@ -351,6 +351,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MGMEZZ04TEST\Design Rule Check - MGMEZZ02.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ModelNumber
 Value=MGMEZZ02
