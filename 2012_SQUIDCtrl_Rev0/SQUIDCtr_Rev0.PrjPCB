@@ -240,22 +240,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document14]
-DocumentPath=SQUIDCtr_Rev0.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document15]
 DocumentPath=SubmittedPCB3rdJuly2012.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,254 +254,6 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-
-[Document16]
-DocumentPath=ODB3rdJuly2012.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document17]
-DocumentPath=CompositeAndGerbers.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\Design Rule Check - SQUIDCtr_Rev0.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\bottom\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\bottomoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\bottompaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\bottomsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\mechanical1\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\mid1\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\mid2\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\mid3\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\mid4\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\plane1\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\plane2\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\plane3\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\plane4\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\top\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\topoverlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\toppaste\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\topsolder\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\symbols\rect96.4567x118.1102_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\symbols\rect104.4567x126.1102_315\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\Pick Place for SQUIDCtr_Rev0.csv
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\Pick Place for SQUIDCtr_Rev0.txt
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.G1
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.G2
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=SQUIDCtr_Rev0.PcbDoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\SQUIDCtr_Rev0.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for SQUIDCtr_Rev0\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
 
 [Parameter1]
 Name=ModelNumber
@@ -871,7 +607,7 @@ PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL6
+TargetPrinter=HP Deskjet F4100 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -933,7 +669,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL6
+TargetPrinter=HP Deskjet F4100 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Drill
 OutputName1=Drill Drawing/Guides
@@ -995,7 +731,7 @@ Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet 4250 PCL6
+TargetPrinter=HP Deskjet F4100 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -1260,16 +996,6 @@ OutputName1=Export STEP
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=AutoCAD dwg/dxf PCB
-OutputName2=AutoCAD dwg/dxf File PCB
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=AutoCAD dwg/dxf Schematic
-OutputName3=AutoCAD dwg/dxf File Schematic
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [Modification Levels]
 Type1=1
