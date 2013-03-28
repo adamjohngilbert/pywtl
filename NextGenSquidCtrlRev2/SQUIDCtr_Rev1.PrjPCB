@@ -197,7 +197,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -239,6 +239,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
+DocumentPath=ProjectOutputs\Design Rule Check - SQUIDCtr_Rev1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=SQUIDCtr_Rev1.PcbDoc.htm
 DItemRevisionGUID=
 
