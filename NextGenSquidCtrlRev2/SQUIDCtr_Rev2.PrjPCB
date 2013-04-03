@@ -143,13 +143,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document8]
-DocumentPath=SQUID_Channel_DACS.SchDoc
+DocumentPath=SQUIDCtr_Rev2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=6
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -159,13 +159,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=SQUIDCtr_Rev2.PcbDoc
+DocumentPath=SQUID_Channel_DACS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -238,7 +238,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document14]
+DocumentPath=SQUIDCtrl_Rev2.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
+DocumentPath=ProjectOutputs\Design Rule Check - SQUIDCtr_Rev2.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=SQUIDCtr_Rev1.PcbDoc.htm
 DItemRevisionGUID=
 
