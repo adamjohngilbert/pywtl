@@ -296,6 +296,9 @@ Variant=[No Variations]
 GenerateBOM=0
 OutputJobsCount=0
 
+[Generic_EDE]
+OutputDir=ProjectOutputs
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
