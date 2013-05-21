@@ -271,22 +271,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document16]
-DocumentPath=Regulators.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document17]
 DocumentPath=NullerCarrier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +286,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document17]
 DocumentPath=NullerCarrier.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -318,7 +302,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document19]
+[Document18]
 DocumentPath=MGMEZZ04.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -334,7 +318,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document20]
+[Document19]
 DocumentPath=LvlTranslate.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -350,7 +334,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document21]
+[Document20]
 DocumentPath=TwoWires.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,7 +350,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document22]
+[Document21]
 DocumentPath=ProgramableResistor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -382,7 +366,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document23]
+[Document22]
 DocumentPath=ProgramableResistor.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -398,14 +382,30 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document24]
+[Document23]
 DocumentPath=Mechanical.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document24]
+DocumentPath=BuckReg.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -440,6 +440,9 @@ Variant=[No Variations]
 GenerateBOM=0
 OutputJobsCount=0
 
+[Generic_EDE]
+OutputDir=ProjectOutputs
+
 [Generic_SmartPDF]
 AutoOpenFile=-1
 AutoOpenOutJob=-1
@@ -473,9 +476,6 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
-
-[Generic_EDE]
-OutputDir=ProjectOutputs
 
 [OutputGroup1]
 Name=Netlist Outputs
