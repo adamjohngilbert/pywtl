@@ -463,6 +463,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
+DocumentPath=ProjectOutputs\Design Rule Check - MGMEZZ04.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=MGMEZZ04.PcbDoc.htm
 DItemRevisionGUID=
 
