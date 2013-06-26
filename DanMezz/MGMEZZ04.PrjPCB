@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 LogFolderPath=
 ReleasesFolder=
@@ -16,7 +16,7 @@ TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
 AllowPortNetNames=0
-AllowSheetEntryNetNames=1
+AllowSheetEntryNetNames=0
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
 DefaultConfiguration=Default Configuration
@@ -24,11 +24,11 @@ UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
-NameNetsHierarchically=0
+NameNetsHierarchically=1
 PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
-ReportSuppressedErrorsInMessages=0
+ReportSuppressedErrorsInMessages=1
 
 [Document1]
 DocumentPath=FMCio_rowsCDGH.SchDoc
@@ -469,7 +469,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -501,7 +501,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -535,16 +535,16 @@ DocumentPath=MGMEZZ04.PcbDoc.htm
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ModelNumber
-Value=MGMEZZ04
+Name=revision
+Value=0
 
 [Parameter2]
 Name=ProjectTitle
 Value=Dan DfMux Mezz
 
 [Parameter3]
-Name=revision
-Value=0
+Name=ModelNumber
+Value=MGMEZZ04
 
 [Configuration1]
 Name=Default Configuration
@@ -1340,7 +1340,7 @@ Type10=1
 Type11=2
 Type12=2
 Type13=2
-Type14=1
+Type14=0
 Type15=1
 Type16=1
 Type17=1
