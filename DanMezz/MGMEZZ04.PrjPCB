@@ -535,16 +535,16 @@ DocumentPath=MGMEZZ04.PcbDoc.htm
 DItemRevisionGUID=
 
 [Parameter1]
-Name=revision
-Value=0
+Name=ModelNumber
+Value=MGMEZZ04
 
 [Parameter2]
 Name=ProjectTitle
 Value=Dan DfMux Mezz
 
 [Parameter3]
-Name=ModelNumber
-Value=MGMEZZ04
+Name=revision
+Value=0
 
 [Configuration1]
 Name=Default Configuration
