@@ -115,10 +115,6 @@ GenerateClassCluster=0
 DocumentPath=DanSquidControlAdapterBoard.PcbDoc.htm
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for DanSquidControlAdapterBoard\Design Rule Check - DanSquidControlAdapterBoard.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
