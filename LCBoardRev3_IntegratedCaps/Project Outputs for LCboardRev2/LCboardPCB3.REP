@@ -1,0 +1,176 @@
+*************************************************************
+FileName = LCboardPCB3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : LCboardPCB3.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1
+      File : LCboardPCB3.G1
+
+    Adding Layer      : Mid-Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 1
+      File : LCboardPCB3.GP1
+
+    Adding Layer      : Internal Plane 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 2
+      File : LCboardPCB3.GP2
+
+    Adding Layer      : Internal Plane 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D16
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 2
+      File : LCboardPCB3.G2
+
+    Adding Layer      : Mid-Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : LCboardPCB3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : LCboardPCB3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D12
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : LCboardPCB3.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LCboardPCB3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : LCboardPCB3.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D22
+    D23
+*************************************************************
+
