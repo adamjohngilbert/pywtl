@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: LCboardPCB3.GBR   6/12/2014  12:06:19 PM
+Gerber File Extension Report For: LCboardPCB3.GBR   6/13/2014  1:20:05 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -16,4 +16,5 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------
