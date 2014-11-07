@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for SPT3G_LCBoard
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -172,6 +172,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Parameter1]
+Name=ProjectTitle
+Value=SPT3G LC board
+
+[Parameter2]
+Name=DrawnBy
+Value=Adam Gilbert & Amy Bender
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -219,7 +227,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for SPT3G_LCBoard
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
