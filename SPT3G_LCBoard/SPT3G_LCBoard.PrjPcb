@@ -122,23 +122,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DRRGNHBC
 
 [Document6]
-DocumentPath=TopLevelSchem
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=TopLevelSchem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NICJRNDA
 
-[Document8]
+[Document7]
 DocumentPath=SPT3G_LCBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQUPWQXQ
 
-[Document9]
+[Document8]
 DocumentPath=SPT3G_LCBoard.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +187,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=-1
+ProjectMode=0
 ZoomPrecision=50
 AddNetsInformation=0
 AddNetPins=-1
