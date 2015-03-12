@@ -153,7 +153,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FQUPWQXQ
 
 [Document8]
 DocumentPath=Resistors.SchDoc
@@ -162,7 +162,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -171,6 +171,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMDKJOPS
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SPT3G_LCTestBoard_Rev0\Design Rule Check - SPT3G_LCTestBoard.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=DrawnBy
