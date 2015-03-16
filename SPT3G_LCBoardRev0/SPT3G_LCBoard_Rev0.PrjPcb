@@ -173,7 +173,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FQUPWQXQ
 
 [Document9]
-DocumentPath=SPT3G_LCBoard_Rev0.OutJob
+DocumentPath=..\SPT3G_LCTestBoard\SPT3G_LCTestBoard_Rev0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
