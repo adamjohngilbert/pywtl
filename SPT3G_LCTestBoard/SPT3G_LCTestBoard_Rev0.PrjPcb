@@ -122,23 +122,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NICJRNDA
 
 [Document6]
-DocumentPath=SPT3G_LCBoard.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=SPT3G_LCTestBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQUPWQXQ
 
-[Document8]
+[Document7]
 DocumentPath=Resistors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,6 +154,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMDKJOPS
+
+[Document8]
+DocumentPath=SPT3G_LCTestBoard_Rev0.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SPT3G_LCTestBoard_Rev0\Design Rule Check - SPT3G_LCTestBoard.html
