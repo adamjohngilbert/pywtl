@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FRINLBIH
 
 [Document2]
 DocumentPath=..\..\SPT3G_LCTestBoard\SPT3G_LCTestBoard.PcbDoc
@@ -121,88 +121,442 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Gerbers.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=Gerbers2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\Design Rule Check - SPT3G_LCTestBoard.html
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\Embedded Boards Stackup Compatibility - SPT3G_LCArray.html
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.DRR
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.EXTREP
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.G1
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.G2
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GBL
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\Design Rule Check - SPT3G_LCTestBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GBO
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\Embedded Boards Stackup Compatibility - SPT3G_LCArray.html
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GBS
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GKO
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GM3
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GM4
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GP1
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GP2
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\keepout\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GTL
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\mechanical1\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GTO
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\mechanical2\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GTS
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\mechanical3\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.LDP
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\mechanical4\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.REP
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\mechanical16\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.RUL
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\mid1\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\mid2\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\plane1\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\plane2\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\bottomoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\bottomsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\mechanical2\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\mechanical3\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\mechanical16\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\mid2\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\plane1\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\plane2\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\bottomoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\bottompaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\bottomsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\mechanical2\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\mechanical3\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\mechanical4\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\mechanical16\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\mid2\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\plane1\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\plane2\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\profile
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\profile
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\profile
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.G1
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.G2
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.REP
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument95]
 DocumentPath=Project Outputs for SPT3_LCBoardWithTest\SPT3G_LCArray.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\panel\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb1\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for SPT3_LCBoardWithTest\odb\steps\pcb2\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -475,55 +829,57 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=HP LaserJet 4250 PCL6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Plane
+OutputName3=Power-Plane Prints
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=ODB
+OutputName4=ODB++ Files
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=True|PlotInternalPlane2Plot=True|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 OutputType5=Test Points
 OutputName5=Test Point Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=Mask
-OutputName6=Solder/Paste Mask Prints
+OutputType6=CompositeDrill
+OutputName6=Composite Drill Drawing
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType7=NC Drill
-OutputName7=NC Drill Files
+OutputType7=Board Stack Report
+OutputName7=Report Board Stack
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-Configuration7_Name1=OutputConfigurationParameter1
-Configuration7_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
-OutputType8=ODB
-OutputName8=ODB++ Files
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Final
+OutputName8=Final Artwork Prints
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Plane
-OutputName9=Power-Plane Prints
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Drill
+OutputName9=Drill Drawing/Guides
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
