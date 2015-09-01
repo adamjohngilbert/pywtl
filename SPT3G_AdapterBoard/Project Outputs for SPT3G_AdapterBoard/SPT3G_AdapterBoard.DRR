@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SPT3G_AdapterBoard.PcbDoc   01-Sep-15  3:13:11 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SPT3G_AdapterBoard.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          128              8.70 Inch (221.06 mm)
+T2        25mil (0.635mm)          Round          21               1.01 Inch (25.55 mm)
+T3        96.06mil (2.43992mm)     Round          2                0.87 Inch (21.97 mm)
+T4        120mil (3.048mm)         Round          4                3.39 Inch (86.07 mm)
+---------------------------------------------------------------------------
+Totals                                            155              13.96 Inch (354.65 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
