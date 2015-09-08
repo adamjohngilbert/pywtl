@@ -5,7 +5,7 @@
 $0 r10
 $1 r25
 $2 r96.063
-$3 r120
+$3 r129
 
 #
 #Feature attribute names
@@ -17,7 +17,7 @@ $3 r120
 #Feature attribute text strings
 #
 &0 VIA_RoundD20.0000H10.0000C50.0000
-&1 Pad_Simple_X180.0000Y180.0000H120.0000C160.0000
+&1 Pad_Simple_X183.0000Y183.0000H129.0000C169.0000
 &2 Pad_Simple_X35.0000Y35.0000H25.0000C65.0000
 &3 Pad_Simple_X125.9843Y125.9843H96.0630C136.0630
 
