@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ICE_DfMux_QC.PcbDoc   09-Oct-15  9:28:51 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ICE_DfMux_QC.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          63               14.23 Inch (361.41 mm)
+T2        35mil (0.889mm)          Round          6                0.72 Inch (18.29 mm)
+T3        42.91mil (1.08991mm)     Round          222              39.80 Inch (1010.90 mm)
+T4        43.31mil (1.10007mm)     Round          2                6.79 Inch (172.43 mm)
+T5        62.99mil (1.59995mm)     Round          8                8.27 Inch (209.99 mm)
+T6        128.35mil (3.26009mm)    Round          12               17.91 Inch (454.88 mm)
+T7        25mil (0.635mm)          Round          130       NPTH   14.84 Inch (376.94 mm)
+---------------------------------------------------------------------------
+Totals                                            443              102.55 Inch (2604.83 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
