@@ -366,74 +366,82 @@ DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GBS
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GKO
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM1
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM2
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM3
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM4
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM5
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GP1
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GP2
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GTL
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GTO
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GTS
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.LDP
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.REP
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.RUL
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.TXT
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.REP
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument53]
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\SPT3G_LCBoardRev4.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
 DocumentPath=Project Outputs for SPT3G_LCBoard_Rev2\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -880,7 +888,7 @@ OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=True|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16777218~1,16842753~1,16842754~1,16777219~1,16842751~1,16973835~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=True|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16842753~1,16842754~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908290~1,16908291~1,16908292~1,16908293~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
