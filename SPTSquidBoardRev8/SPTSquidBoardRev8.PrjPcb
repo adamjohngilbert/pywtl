@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KPHCRJGA
 
 [Document2]
-DocumentPath=SPT3G_LCBoard.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LONRYKQT
-
-[Document3]
 DocumentPath=SPT3G_LCBoard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JRWMAVLB
 
-[Document4]
+[Document3]
 DocumentPath=SquidPage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFDIOWMT
 
-[Document5]
+[Document4]
 DocumentPath=SPTSquidBoardRev8.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=SPTSquidBoardRev8.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,6 +122,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LEASRWQB
+
+[Document6]
+DocumentPath=SPTSquidBoardRev8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LOUIMVJI
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SPTSquidBoardRev8\Design Rule Check - SPTSquidBoardRev8.html
