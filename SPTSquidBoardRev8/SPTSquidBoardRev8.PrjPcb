@@ -158,7 +158,203 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SPTSquidBoardRev8\Design Rule Check - SPTSquidBoardRev8.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\internal_plane_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\internal_plane_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\mechanical_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\mechanical_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\mid-layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\mid-layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.G1
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.G2
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.REP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\SPTSquidBoardRev8.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for SPTSquidBoardRev8\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -545,8 +741,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=??
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1423|FormHeight=989|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Value=True|Comment=True|Footprint=True
+Configuration1_Name5=OutputConfigurationParameter1
+Configuration1_Item5=??
+Configuration1_Name6=SortOrder
+Configuration1_Item6=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name7=VisibleOrder
+Configuration1_Item7=Comment=83|Description=83|Designator=65|Footprint=150|LibRef=64|Quantity=49|Value=40
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
