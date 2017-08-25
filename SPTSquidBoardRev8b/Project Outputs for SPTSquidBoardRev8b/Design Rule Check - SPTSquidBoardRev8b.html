@@ -1,0 +1,376 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+		td, th {
+			padding: 0.5em;
+			text-align : left;
+			width: 10em;
+		}
+		th {
+			background-color : #EEEEEE;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+			font-size: 0.9em;
+		}
+
+		.DRC_summary_header {
+			padding-bottom : 0.1em;
+			border : 0px solid black;
+			width: 100%;
+			align: left;
+		}
+
+		.DRC_summary_header_col1,
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3 {
+			color : black;
+			font-size:100%;
+			padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2em;
+			border : 0px solid black;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.DRC_summary_header_col1 {
+			font-weight: bold;
+			width: 8em;
+		}
+
+		.DRC_summary_header_col2 {
+			width: 0.1em;
+		
+		}
+
+		.DRC_summary_header_col3 {
+			width : auto;
+		}
+
+		.header_holder {
+		    Width = 100%;
+		    border = 0px solid green;
+		    padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 8em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script><title>Design Rule Verification Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD17\Templates\AD_logo.png
+		"><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td class="column1">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">2017-08-25</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">9:41:10 AM</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:06</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc" class="file"><acronym title="C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc">C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td class="column2">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">8</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3">0</td></tr>
+</table>
+</td>
+</table><a name="IDI1OUBDJ3SGIVJVTFZBBAU14WGKLKLQTCXCCWU2BHDJT5PNSGPPCI"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDTLI3RFY5XHS0NMDFJ2FRWAKZL0T4IVLYIYZIJBN245SDLAZSI4N">8 Net Ties failed verification</a></td>
+<td class="column2">8</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">8</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDP2TS11D4OJ42Y0EGJLI1IER2D5JORPJ4ASRMNDM5H3XDJ50KBAE">Clearance Constraint (Gap=5mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDSDL4UWITKD0SH51T3DHI2J2PXDO5EJHJY2RDFFDUNDBV5Y0GYD2N">Clearance Constraint (Gap=1mil) (OnLayer('Keep-Out Layer')),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDFR4JP53WKXSQM1BLCKL4KNG1KFFV4LEDNGY5C5J1QXWZKFVVO2LK">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDXBLUDLZZR4BXFQBQNC1VRUEAOYY4BULG0GVBIHTVZY0C0PDX23">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDHLWO5Q5MANTAFOVPE0HQIOOZICDZ0AHH5XEPSDH4JIZBULIZPYZN">Modified Polygon (Allow modified: No), (Allow shelved: No)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDEVVMWRDD4KSPBUQWCAERTQNOMLRLGCVGUD1QVJGQWQ5VEHEX0MTI">Width Constraint (Min=5mil) (Max=200mil) (Preferred=10mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID3ZVFWAIM1XY5HPC2ETBMSPQJ1HEYCVLLDZJE3PDBPJPPGBR01XRD">Width Constraint (Min=10mil) (Max=200mil) (Preferred=54mil) (InNetClass('LowInductance'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDR1NJ05ZHT1DVGLYG0XHKBRRILCSVNTJFXWUYU1ODC22EH44AYQFH">Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID5ZT0BET02VTTMYA2HL1Z3L05PISBGSQYHQZ3HGOLLZJ0KU4G5LTH">Hole Size Constraint (Min=1mil) (Max=500mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDPUTLTLMMKTQCHENC0MPYK3YY5BVAREY0IO22JLKJHUT51KPZIFDH">Hole To Hole Clearance (Gap=10mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID5EOEXTSO3Q32NYF2FCW5SRI0KO1QL0FB1YV14ZIVLRPG25WXRHML">Minimum Solder Mask Sliver (Gap=3mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDCXRH4KJOXDAJIXIMES5FB2DAFB1YJTAOVUXYBHPHGUUSU1L0IRNN">Minimum Solder Mask Sliver (Gap=1mil) (IsTrack),(IsTrack)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDTWJ1IURMVMZZBKV5LMOIU3GPMLCWT3DENSYP1MDIBI20H3JSTNGD">Silk To Solder Mask (Clearance=5mil) (IsPad),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDPCCQEMR5I4HZD45OUCRII4USRHCF3SI1D5HSTLHNT3DJW01PRIWK">Silk to Silk (Clearance=0mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDYDN1QJLLTAKKCUOSUKHW4FHW3ERT0032C1LA0DFI5RTX05QABU5N">Net Antennae (Tolerance=2000mil) (InNetClass('Heater'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID2AH05NMF12J5BWUU4HZLTSVCDG1LAHMQLBTNWSIZW20OCUNZL53J">Net Antennae (Tolerance=0mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDMX14LCTO4IZCESBXUR52F2RO5VLUWMERDGSHQFGD3G3QIMNHHWN">Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID3A5HZHVPFKBHGHY0G2I1LV53UFIACXVTGJ20R1LOPMHVAYMCO3I">Silk primitive without silk layer</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">0</td>
+</tr>
+</table><br><a name="IDUGIW0TRSOP4XORNO4XXROGANWM11KURTFQXMZBBJTNV41KE0WSIP"><h2>Warnings</h2></a><a name="IDTLI3RFY5XHS0NMDFJ2FRWAKZL0T4IVLYIYZIJBN245SDLAZSI4N"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="warning">8 Net Ties failed verification</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7578.007mil|Location2.X=7749.25mil|Location1.Y=3290.653mil|Location2.Y=3422.569mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7578.007mil|Location2.X=7749.25mil|Location1.Y=3290.653mil|Location2.Y=3422.569mil|Absolute=True">SIP Component R1SQ8-ResBias (4780mil,469.653mil) on Top Layer</acronym></a>, SIP Component R1SQ8-ResBias (4780mil,469.653mil) on Top Layer, has isolated copper</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7076.63mil|Location2.X=7248.873mil|Location1.Y=3294.276mil|Location2.Y=3422.192mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=7076.63mil|Location2.X=7248.873mil|Location1.Y=3294.276mil|Location2.Y=3422.192mil|Absolute=True">SIP Component R1SQ7-ResBias (4279.623mil,469.276mil) on Top Layer</acronym></a>, SIP Component R1SQ7-ResBias (4279.623mil,469.276mil) on Top Layer, has isolated copper</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6576.283mil|Location2.X=6748.873mil|Location1.Y=3289.276mil|Location2.Y=3422.192mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6576.283mil|Location2.X=6748.873mil|Location1.Y=3289.276mil|Location2.Y=3422.192mil|Absolute=True">SIP Component R1SQ6-ResBias (3779.623mil,469.276mil) on Top Layer</acronym></a>, SIP Component R1SQ6-ResBias (3779.623mil,469.276mil) on Top Layer, has isolated copper</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6079.007mil|Location2.X=6249.25mil|Location1.Y=3291mil|Location2.Y=3422.916mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=6079.007mil|Location2.X=6249.25mil|Location1.Y=3291mil|Location2.Y=3422.916mil|Absolute=True">SIP Component R1SQ5-ResBias (3280mil,470mil) on Top Layer</acronym></a>, SIP Component R1SQ5-ResBias (3280mil,470mil) on Top Layer, has isolated copper</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5579.007mil|Location2.X=5749.25mil|Location1.Y=3288.653mil|Location2.Y=3422.569mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5579.007mil|Location2.X=5749.25mil|Location1.Y=3288.653mil|Location2.Y=3422.569mil|Absolute=True">SIP Component R1SQ4-ResBias (2780mil,469.653mil) on Top Layer</acronym></a>, SIP Component R1SQ4-ResBias (2780mil,469.653mil) on Top Layer, has isolated copper</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5077.283mil|Location2.X=5248.873mil|Location1.Y=3288.276mil|Location2.Y=3422.192mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5077.283mil|Location2.X=5248.873mil|Location1.Y=3288.276mil|Location2.Y=3422.192mil|Absolute=True">SIP Component R1SQ3-ResBias (2279.623mil,469.276mil) on Top Layer</acronym></a>, SIP Component R1SQ3-ResBias (2279.623mil,469.276mil) on Top Layer, has isolated copper</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4576.659mil|Location2.X=4749.25mil|Location1.Y=3285.653mil|Location2.Y=3422.569mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4576.659mil|Location2.X=4749.25mil|Location1.Y=3285.653mil|Location2.Y=3422.569mil|Absolute=True">SIP Component R1SQ2-ResBias (1780mil,469.653mil) on Top Layer</acronym></a>, SIP Component R1SQ2-ResBias (1780mil,469.653mil) on Top Layer, has isolated copper</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4110.373mil|Location2.X=4266.968mil|Location1.Y=3298.776mil|Location2.Y=3422.192mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\AltiumProjects\SPTSquidBoardRev8b\SPTSquidBoardRev8b.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4110.373mil|Location2.X=4266.968mil|Location1.Y=3298.776mil|Location2.Y=3422.192mil|Absolute=True">SIP Component R1SQ1-ResBias (1279.623mil,469.276mil) on Top Layer</acronym></a>, SIP Component R1SQ1-ResBias (1279.623mil,469.276mil) on Top Layer, has isolated copper</td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>
